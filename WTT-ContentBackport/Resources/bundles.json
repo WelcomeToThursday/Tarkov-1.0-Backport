@@ -9267,31 +9267,10 @@
       ]
     },
     {
-      "key": "assets/content/weapons/kabar/client_assets.bundle",
-      "dependencyKeys": [
-        "shaders",
-        "assets/content/weapons/kabar/textures/client_assets.bundle",
-        "cubemaps"
-      ]
-    },
-    {
-      "key": "assets/content/weapons/kabar/textures/client_assets.bundle",
-      "dependencyKeys": []
-    },
-    {
       "key": "assets/content/weapons/kabar/weapon_kabar_usmc_fighter_container.bundle",
       "dependencyKeys": [
-        "assets/content/weapons/kabar/client_assets.bundle",
-        "assets/content/weapons/kabar/textures/client_assets.bundle",
-        "cubemaps",
-        "shaders",
-        "assets/commonassets/physics/physicsmaterials.bundle",
-        "assets/content/weapons/animations/spirit_animations.bundle",
-        "assets/content/weapons/weapon_root_anim_fix.bundle",
-        "assets/content/audio/weapons/knife_bayonet.bundle",
-        "assets/content/audio/weapons/generic",
         "assets/systems/effects/muzzleflash/muzzleflash.bundle",
-        "assets/content/weapons/animations/simple_animations.bundle"
+        "assets/content/weapons/additional_hands/client_assets.bundle"
       ]
     },
     {
