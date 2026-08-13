@@ -1,0 +1,178 @@
+{
+  "THERAPIST": {
+    "items": [
+      {
+        "_id": "6a70c20e24dffc5ce90a7237",
+        "_tpl": "5ad5db3786f7743568421cce",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "location": null,
+        "upd": {
+          "StackObjectsCount": 995000,
+          "UnlimitedCount": true,
+          "BuyRestrictionMax": 1,
+          "BuyRestrictionCurrent": 0
+        }
+      },
+      {
+        "_id": "6a70c20f24dffc5ce90a7243",
+        "_tpl": "5d1b3f2d86f774253763b735",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "location": null,
+        "upd": {
+          "StackObjectsCount": 995000,
+          "UnlimitedCount": true,
+          "BuyRestrictionMax": 3,
+          "BuyRestrictionCurrent": 0
+        }
+      },
+      {
+        "_id": "6a70c20f24dffc5ce90a724f",
+        "_tpl": "697883474afb9f7de10380ba",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "location": null,
+        "upd": {
+          "StackObjectsCount": 995000,
+          "UnlimitedCount": true,
+          "BuyRestrictionMax": 1,
+          "BuyRestrictionCurrent": 0
+        }
+      },
+      {
+        "_id": "6a70c20f24dffc5ce90a7252",
+        "_tpl": "5a0dc95c86f77452440fc675",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "location": null,
+        "upd": {
+          "StackObjectsCount": 995000,
+          "UnlimitedCount": true,
+          "BuyRestrictionMax": 1,
+          "BuyRestrictionCurrent": 0
+        }
+      },
+      {
+        "_id": "6a70c20f24dffc5ce90a7258",
+        "_tpl": "59387a4986f77401cc236e62",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "location": null,
+        "upd": {
+          "StackObjectsCount": 995000,
+          "UnlimitedCount": true,
+          "BuyRestrictionMax": 1,
+          "BuyRestrictionCurrent": 0
+        }
+      },
+      {
+        "_id": "6a70c20f24dffc5ce90a726d",
+        "_tpl": "5991b51486f77447b112d44f",
+        "parentId": "hideout",
+        "slotId": "hideout",
+        "location": null,
+        "upd": {
+          "StackObjectsCount": 990000,
+          "UnlimitedCount": true,
+          "BuyRestrictionMax": 20,
+          "BuyRestrictionCurrent": 0
+        }
+      }
+    ],
+    "barter_scheme": {
+      "6a70c20e24dffc5ce90a7237": [
+        [
+          {
+            "type": "ItemRequirement",
+            "count": 5.0,
+            "_tpl": "5d1b3f2d86f774253763b735"
+          },
+          {
+            "type": "ItemRequirement",
+            "count": 3.0,
+            "_tpl": "590c5d4b86f774784e1b9c45"
+          },
+          {
+            "type": "ItemRequirement",
+            "count": 1.0,
+            "_tpl": "5af0534a86f7743b6f354284"
+          }
+        ]
+      ],
+      "6a70c20f24dffc5ce90a7243": [
+        [
+          {
+            "type": "ItemRequirement",
+            "count": 2.0,
+            "_tpl": "5672cb124bdc2d1a0f8b4568"
+          }
+        ]
+      ],
+      "6a70c20f24dffc5ce90a724f": [
+        [
+          {
+            "type": "ItemRequirement",
+            "count": 4.0,
+            "_tpl": "59e3647686f774176a362507"
+          },
+          {
+            "type": "ItemRequirement",
+            "count": 2.0,
+            "_tpl": "590de71386f774347051a052"
+          },
+          {
+            "type": "ItemRequirement",
+            "count": 1.0,
+            "_tpl": "590de7e986f7741b096e5f32"
+          }
+        ]
+      ],
+      "6a70c20f24dffc5ce90a7252": [
+        [
+          {
+            "type": "ItemRequirement",
+            "count": 4.0,
+            "_tpl": "5d1b3a5d86f774252167ba22"
+          }
+        ]
+      ],
+      "6a70c20f24dffc5ce90a7258": [
+        [
+          {
+            "type": "ItemRequirement",
+            "count": 1.0,
+            "_tpl": "59e361e886f774176c10a2a5"
+          },
+          {
+            "type": "ItemRequirement",
+            "count": 1.0,
+            "_tpl": "59e3606886f77417674759a5"
+          },
+          {
+            "type": "ItemRequirement",
+            "count": 1.0,
+            "_tpl": "5d1b3a5d86f774252167ba22"
+          }
+        ]
+      ],
+      "6a70c20f24dffc5ce90a726d": [
+        [
+          {
+            "type": "ItemRequirement",
+            "count": 19353.0,
+            "_tpl": "5449016a4bdc2d6f028b456f"
+          }
+        ]
+      ]
+    },
+    "loyal_level_items": {
+      "6a70c20e24dffc5ce90a7237": 3,
+      "6a70c20f24dffc5ce90a7243": 2,
+      "6a70c20f24dffc5ce90a724f": 3,
+      "6a70c20f24dffc5ce90a7252": 3,
+      "6a70c20f24dffc5ce90a7258": 2,
+      "6a70c20f24dffc5ce90a726d": 1
+    }
+  }
+}
