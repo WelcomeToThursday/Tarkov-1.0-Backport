@@ -1122,6 +1122,7 @@ public class BaseGameItemEdits(
                     break;
                 case "66bc98a01a47be227a5e956e":
                     item.Properties.Grids.FirstOrDefault().Properties.CellsH = 8;
+                    item.Properties.Grids.FirstOrDefault().Properties.CellsV = 11;
                     var filter = item.Properties.Grids.FirstOrDefault().Properties.Filters.FirstOrDefault().Filter;
                     filter.Add("6937edb912d456a817083e82");
                     filter.Add("6937ecf8628ee476240c07cb");
@@ -1130,6 +1131,10 @@ public class BaseGameItemEdits(
                     filter.Add("69f9d319c906cd16da03b374");
                     filter.Add("69f9d547b98cc4120608692a");
                     filter.Add("69f9d60b5de6674f08060f2a");
+                    filter.Add("6a3532423ec9d7082a05d430");
+                    filter.Add("6a35322b81d315afe1018ef3");
+                    filter.Add("6a3557f841667bc4bb00fea4");
+                    filter.Add("6a4ce086b5644e9f0a08d08a");
                     break;
                 case "5929a2a086f7744f4b234d43":
                     item.Properties.Prefab.Path =
