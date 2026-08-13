@@ -14,7 +14,14 @@ namespace WTTContentBackport.Helpers
         // Define weapon IDs
         // ReSharper disable InconsistentNaming
         // ReSharper disable IdentifierTypo
-        
+
+        // Knives
+
+        private const string KABAR_FIGHTER = "6a3935772db31ca1c800fe26";
+        private const string JAGD = "6a39358c658f5889ba050ef3";
+        private const string MILLER_M2_BROWN = "68d16e9f2711340d6b0d4786";
+        private const string FINKA = "68f244ae22c8979ee308f4d8";
+
         // Assault Carbine
         private const string ASVAL_MOD4 = "6871284e9a353bb50606f3ed";
         
@@ -26,7 +33,10 @@ namespace WTTContentBackport.Helpers
         private const string AK308 = "689166b6c2d6fa42e7044756";
         private const string M16A2 = "68a6399922b1e0bd360afe56";
         private const string M110 = "6932abeb5403890d0c09c926";
-        
+        private const string HK416A5 = "6a15ae2ae5267ba21c07f98f";
+        private const string HOWATYPE20 = "6a3bffbebc377285900b85cf";
+        private const string QBZ191 = "69f9ebbcaae020b0db02f65d";
+
         // Marksman Rifle
         private const string TKPD = "68aee763130c00663d08aea8";
         private const string SR25_TAUPE = "6932abeb5403890d0c09c926";
@@ -152,7 +162,7 @@ namespace WTTContentBackport.Helpers
 
             // District Patrol (64e7b9bffd30422ed03dad38)
             questHelper.AddWeaponsToKillCondition(quests, "64e7b9bffd30422ed03dad38", [
-                ASVAL_MOD4, RADIAN_MODEL1, M16A1, NL545, NL545_DI, AK308, M16A2
+                ASVAL_MOD4, RADIAN_MODEL1, M16A1, NL545, NL545_DI, AK308, M16A2, HK416A5, HOWATYPE20, QBZ191
             ]);
 
             // ====================== SKIER QUESTS ======================
@@ -239,6 +249,10 @@ namespace WTTContentBackport.Helpers
                 facecover_Atomic_blastedice, facecover_Atomic_crashtested, facecover_Atomic_demonic, facecover_Atomic_LouiPeeton3, facecover_Atomic_LouiPeeton4, facecover_Atomic_ping, facecover_Atomic_toxic, facecover_deathshadow_gold, facecover_deathshadow_gray, facecover_deathshadow_white, facecover_Samurai_menpo, facecover_Samurai_menpo_gold, facecover_Samurai_menpo_white
             };
 
+            var allKnives = new[] {
+                MILLER_M2_BROWN, FINKA, JAGD, KABAR_FIGHTER
+            };
+
             // Tarkov Shooter Part 1-8
             questHelper.AddWeaponsToKillCondition(quests, "5bc4776586f774512d07cf05", [MXLR]); // Part 1
             questHelper.AddWeaponsToKillCondition(quests, "5bc479e586f7747f376c7da3", [MXLR]); // Part 2
@@ -251,6 +265,9 @@ namespace WTTContentBackport.Helpers
 
             // Claustrophobia (669fa3979b0ce3feae01a130)
             questHelper.AddWeaponsToKillCondition(quests, "669fa3979b0ce3feae01a130", [saiga_12g_redline]);
+
+            // Slaughterhouse (63a9b36cc31b00242d28a99f)
+            questHelper.AddWeaponsToKillCondition(quests, "63a9b36cc31b00242d28a99f", allKnives);
 
             // ====================== MECHANIC QUESTS ======================
 
