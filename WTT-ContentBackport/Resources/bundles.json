@@ -5053,6 +5053,15 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/barrels/barrel_pkp_zid_std_658mm_762x54r.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/barrels/barrel_qbz191_norinco_266mm_58x42.bundle",
       "dependencyKeys": [
         "shaders",
@@ -5131,6 +5140,15 @@
       "dependencyKeys": [
         "shaders",
         "assets/systems/effects/smoke.bundle",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/barrels/barrel_vpo215_600mm_366tkm.bundle",
+      "dependencyKeys": [
+        "assets/systems/effects/smoke.bundle",
+        "cubemaps",
+        "shaders",
         "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
@@ -8187,6 +8205,22 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/stocks/stock_870_fab_defense_agr_870_stock_tube.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/stocks/stock_870_mesa_leo_stock_adapter.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/stocks/stock_ak_armacon_monolit_3_gen2_champ.bundle",
       "dependencyKeys": [
         "cubemaps",
@@ -8203,7 +8237,31 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/stocks/stock_ak_caa_akts.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/stocks/stock_ak_caa_akts_ak74.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/stocks/stock_ak_jmac_rsa_1913_adapter.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/stocks/stock_ak_sag_ak_stock_tube.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
@@ -8216,6 +8274,14 @@
         "shaders",
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/stocks/stock_akms_fab_defence_m4_akms_p.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
       ]
     },
     {
@@ -8294,6 +8360,15 @@
         "shaders",
         "cubemaps",
         "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/stocks/stock_ar15_colt_stock_tube_std.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/mods/stocks/stock_ar15_high_standart_m4ss_lod0_textures.bundle",
+        "cubemaps",
+        "shaders"
       ]
     },
     {
@@ -8427,11 +8502,51 @@
       ]
     },
     {
+      "key": "assets/content/items/mods/stocks/stock_ar15_strike_industries_advanced_receiver_extension",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/content/items/mods/stocks/stock_ar15_strike_industries_advanced_receiver_extension_gloss_nrm"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/stocks/stock_ar15_strike_industries_advanced_receiver_extension_gloss_nrm",
+      "dependencyKeys": []
+    },
+    {
+      "key": "assets/content/items/mods/stocks/stock_ar15_strike_industries_advenced_receiver_extension.bundle",
+      "dependencyKeys": [
+        "assets/content/items/mods/stocks/stock_ar15_strike_industries_advanced_receiver_extension",
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "assets/content/items/mods/stocks/stock_ar15_strike_industries_advanced_receiver_extension_gloss_nrm",
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/stocks/stock_ar15_strike_industries_advenced_receiver_extension_red.bundle",
+      "dependencyKeys": [
+        "assets/content/items/mods/stocks/stock_ar15_strike_industries_advanced_receiver_extension",
+        "assets/content/items/mods/stocks/stock_ar15_strike_industries_advanced_receiver_extension_gloss_nrm",
+        "cubemaps",
+        "shaders",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/mods/stocks/stock_base_fab_defense_fx_kpos_ars.bundle",
       "dependencyKeys": [
         "assets/commonassets/physics/physicsmaterials.bundle",
         "cubemaps",
         "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/stocks/stock_g36_tommy_built_ar15_stock_adapter.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
@@ -8480,6 +8595,22 @@
         "assets/commonassets/physics/physicsmaterials.bundle",
         "cubemaps",
         "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/stocks/stock_mk16_vltor_stock_adapter.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/mods/stocks/stock_mk16_vltor_stock_adapter_fde.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
       ]
     },
     {
@@ -9270,6 +9401,7 @@
       "key": "assets/content/weapons/kabar/weapon_kabar_usmc_fighter_container.bundle",
       "dependencyKeys": [
         "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "shaders",
         "assets/content/weapons/additional_hands/client_assets.bundle"
       ]
     },
