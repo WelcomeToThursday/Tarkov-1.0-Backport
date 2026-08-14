@@ -9367,6 +9367,10 @@
       ]
     },
     {
+      "key": "assets/content/weapons/hk416/textures/client_assets.bundle",
+      "dependencyKeys": []
+    },
+    {
       "key": "assets/content/weapons/hk416/weapon_hk_416a5_556x45_container.bundle",
       "dependencyKeys": [
         "cubemaps",
@@ -9601,6 +9605,46 @@
         "assets/systems/effects/muzzleflash/muzzleflash.bundle",
         "shaders",
         "assets/content/weapons/weapon_root_anim_fix.bundle",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/audio/blendoptions/assets.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/scar/weapon_fn_mk16_556x45_container.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "shaders",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/audio/blendoptions/assets.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/scar/weapon_fn_mk16_556x45_fde_container.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "shaders",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/audio/blendoptions/assets.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/scar/weapon_fn_mk17_762x51_container.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "shaders",
+        "assets/content/weapons/additional_hands/client_assets.bundle",
+        "assets/content/audio/blendoptions/assets.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/weapons/scar/weapon_fn_mk17_762x51_fde_container.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "assets/systems/effects/muzzleflash/muzzleflash.bundle",
+        "shaders",
         "assets/content/weapons/additional_hands/client_assets.bundle",
         "assets/content/audio/blendoptions/assets.bundle"
       ]
