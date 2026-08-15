@@ -203,26 +203,6 @@ public class BaseGameItemEdits(
                   "5b4c81a086f77417d26be63f",
                   "5b4c81bd86f77418a75ae159",
                   "593a87af86f774122f54a951",
-                  "5c0fa877d174af02a012e1cf",
-                  "575062b524597720a31c09a1",
-                  "57513f07245977207e26a311",
-                  "57513f9324597720a7128161",
-                  "57513fcc24597720a31c09a6",
-                  "5751435d24597720a27126d1",
-                  "575146b724597720a27126d5",
-                  "57514643245977207f2c2d09",
-                  "5751496424597720a27126da",
-                  "62a09f32621468534a797acb",
-                  "5e8f3423fd7471236e6e3b64",
-                  "60b0f93284c20f0feb453da7",
-                  "60098b1705871270cd5352a1",
-                  "5d403f9186f7743cac3f229b",
-                  "5d1b376e86f774252519444e",
-                  "5d1b33a686f7742523398398",
-                  "5d40407c86f774318526545a",
-                  "614451b71e5874611e2c7ae5",
-                  "544fb62a4bdc2dfb738b4568",
-                  "5448fee04bdc2dbc018b4567",
                   "6389c8fb46b54c634724d847",
                   "6389c92d52123d5dd17f8876",
                   "664fce7a90294949fe2d81cb",
@@ -623,31 +603,6 @@ public class BaseGameItemEdits(
                   "5751961824597720a31c09ac",
                   "5e42c81886f7742a01529f57",
                   "5e42c83786f7742a021fdf3c",
-                  "54491bb74bdc2d09088b4567",
-                  "670ad7f1ad195290cd00da7a",
-                  "57e26fc7245977162a14b800",
-                  "57e26ea924597715ca604a09",
-                  "5bffe7930db834001b734a39",
-                  "5fc64ea372b0dd78d51159dc",
-                  "5c07df7f0db834001b73588a",
-                  "6087e570b998180e9f76dc24",
-                  "5bffdc370db834001d23eca8",
-                  "679ba90d269ddfea47012159",
-                  "5bffdd7e0db834001b734a1a",
-                  "68d16e9f2711340d6b0d4786",
-                  "6540d2162ae6d96b540afcaf",
-                  "5c0126f40db834002a125382",
-                  "63495c500c297e20065a08b1",
-                  "674d90b55704568fe60bc8f5",
-                  "63920105a83e15700a00f168",
-                  "5c010e350db83400232feec7",
-                  "57cd379a24597778e7682ecf",
-                  "664a5428d5e33a713b622379",
-                  "65ca457b4aafb5d7fc0dcb5d",
-                  "601948682627df266209af05",
-                  "5c012ffc0db834001d23f03f",
-                  "5bc9c1e2d4351e00367fbcf0",
-                  "5bead2e00db834001c062938",
                   "5798a2832459774b53341029",
                   "574eb85c245977648157eec3",
                   "5be4038986f774527d3fae60",
@@ -836,7 +791,6 @@ public class BaseGameItemEdits(
                   "679b9716597ba2ed120c3d3f",
                   "6939948dc2ceb9acd7082eb2",
                   "679b9819a2f2dd4da9023512",
-                  "68f244ae22c8979ee308f4d8",
                   "6937ecf8628ee476240c07cb",
                   "543be5cb4bdc2deb348b4568",
                   "5ede474b0c226a66f5402622",
@@ -848,7 +802,6 @@ public class BaseGameItemEdits(
                   "67b49e7335dec48e3e05e057",
                   "697883474afb9f7de10380ba",
                   "57864a3d24597754843f8721",
-                  "5448e8d04bdc2ddf718b4569",
                   "64d0b40fbe2eed70e254e2d4",
                   "699f0b877c23862b4b0ee19c",
                   "69bb43df99f3fda8f1072483",
@@ -858,8 +811,60 @@ public class BaseGameItemEdits(
                   "69bb435ff609db77390b0e25",
                   "69f9d60b5de6674f08060f2a",
                   "69f9d319c906cd16da03b374",
-                  "69bb41c03b5fb75517065960"
+                  "69bb41c03b5fb75517065960",
+                  "6a354a30652075cf460944c6",
+                  "6a354a9a9cd7a91b45027a89",
+                  "6a354abe73339990030ca469",
+                  "6a354aa56632508bd10476dc",
+                  "6a3549435288a3fe6e085224",
+                  "6a354a077e4ccdbe95005266",
+                  "6a354a6240e6797a930312e5",
+                  "6a354a7e6632508bd10476d8",
+                  "6a354a6f8d465a55c70065c8",
+                  "6a3548e72a963bcdd8098649",
+                  "5447e1d04bdc2dff2f8b4567",
+                  "6a461c41ec88c6b9a509fb17",
+                  "6a461bf82b2264dbe10d0ee6",
+                  "6a461aed7391ab085a093760",
+                  "543be6674bdc2df1348b4569",
+                  "6a3563dacdaebb512e0a009c"
 };
+
+    private static readonly string[] CultistCircleExcludedIds = {
+                  "675aaae75a3ab8372d0b02a7",
+                  "675aaaf674a7619a5304c233",
+                  "675aab0d6b6addc02a08f097",
+                  "675aaae1dcf102478202c537",
+                  "675aaa8f7f3c962069072b27",
+                  "675aaa003107dac10006332f",
+                  "675aaa9a3107dac100063331",
+                  "68fa8e253666e2fd5b00a626",
+                  "68dfc07da7cfeed3e60204e7",
+                  "67bdea8667098e658f064695",
+                  "67bdf04d66ca1d79a2024637",
+                  "67c033fd0610e91bea056998",
+                  "67c04a6f9152fbdfa306cc66",
+                  "67c04dac9320f644db06f45c",
+                  "67c0345b354fca26a0008036",
+                  "67c04a9bd98287be7b0923d8",
+                  "68f213f8ea61d1803707cf7a",
+                  "68e6394e658d876c930977b1",
+                  "68cc09872bdcc15c010c2668",
+                  "6900a54ae85e475e590c96be",
+                  "6819f8df28294ec0730db6b4",
+                  "5732ee6a24597719ae0c0281",
+                  "68d55968ca9935b3f10607a9",
+                  "68a4b745b63e97cc5a056a07",
+                  "6a31807f17005505b70d5827",
+                  "6a3182dc6cd8de21cf0a3a7d",
+                  "6a31830dde69ceafd805afa0",
+                  "6a317b9692cfdcddcb02a58e",
+                  "6a3181f178450ec91c0ea1aa",
+                  "6a31824878450ec91c0ea1ae",
+                  "6a3183258f113efdb7093622",
+                  "6a31828557705071410ca00e",
+                  "6a3182b72fd891345e047eef"
+    };
     public Task OnLoad()
     {
         EditFilters();
@@ -873,23 +878,198 @@ public class BaseGameItemEdits(
         {
             switch (id)
             {
-                case "66740c3739b9da6ce402ee65":
-                        var cultistGrid = item.Properties.Grids?.FirstOrDefault();
-                        var cultistFilters = cultistGrid?.Properties?.Filters?.FirstOrDefault();
-                        var cultistFilter = cultistFilters?.Filter;
-
-                        if (cultistFilter == null)
-                            break;
-
-                        foreach (var allowedId in CultistCircleIds)
-                        {
-                            cultistFilter.Add(allowedId);
-                        }
-                        break;
+                case "6165ac306ef05c2ce828ef74":
+                    slotHelper.EnsureSlot(item, "mod_charge_001", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_charge_001",
+                        "6a3e936964b1d1fcc50ebbff");
+                    break;
+                case "6183afd850224f204c1da514":
+                    slotHelper.EnsureSlot(item, "mod_charge_001", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_charge_001",
+                        "6a3e936964b1d1fcc50ebbff");
+                    break;
+                case "6184055050224f204c1da540":
+                    slotHelper.EnsureSlot(item, "mod_charge_001", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_charge_001",
+                        "6a3e936964b1d1fcc50ebbff");
+                    break;
+                case "618428466ef05c2ce828f218":
+                    slotHelper.EnsureSlot(item, "mod_charge_001", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_charge_001",
+                        "6a3e936964b1d1fcc50ebbff");
+                    break;
+                case "64639a9aab86f8fd4300146c":
+                    slotHelper.EnsureSlot(item, "mod_muzzle", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_muzzle",
+                        "6a182c6008074115230957e9");
+                    break;
+                case "628b9a40717774443b15e9f2":
+                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                      "6984b82c5aab442620032fe8",
+                      "6985eca7de77dd8dd50025ba",
+                      "6985ec9fc848f05f4600f6b9");
+                    break;
+                case "66ffbfb1a73a7bce3d0b45a8":
+                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                      "6984b82c5aab442620032fe8",
+                      "6985eca7de77dd8dd50025ba",
+                      "6985ec9fc848f05f4600f6b9",
+                      "698b338649b46ae2d0092e82",
+                      "698b358b49b46ae2d0092e86",
+                      "698b3592e700c6d632003753");
+                    break;
+                case "6761763448fa5c377e06fc39":
+                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                      "6984b82c5aab442620032fe8",
+                      "6985eca7de77dd8dd50025ba",
+                      "6985ec9fc848f05f4600f6b9",
+                      "698b338649b46ae2d0092e82",
+                      "698b358b49b46ae2d0092e86",
+                      "698b3592e700c6d632003753");
+                    break;
+                case "6706a159c67236b2f703bb95":
+                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                      "6984b82c5aab442620032fe8",
+                      "6985eca7de77dd8dd50025ba",
+                      "6985ec9fc848f05f4600f6b9");
+                    break;
+                case "66ffc20ba73a7bce3d0b45ab":
+                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                      "6984b82c5aab442620032fe8",
+                      "6985eca7de77dd8dd50025ba",
+                      "6985ec9fc848f05f4600f6b9",
+                      "698b338649b46ae2d0092e82",
+                      "698b358b49b46ae2d0092e86",
+                      "698b3592e700c6d632003753");
+                    break;
+                case "638de3603a1a4031d8260b8c":
+                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                      "6984b82c5aab442620032fe8",
+                      "6985eca7de77dd8dd50025ba",
+                      "6985ec9fc848f05f4600f6b9",
+                      "698b338649b46ae2d0092e82",
+                      "698b358b49b46ae2d0092e86",
+                      "698b3592e700c6d632003753");
+                    break;
+                case "5ae35b315acfc4001714e8b0":
+                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                      "6984b82c5aab442620032fe8",
+                      "6985eca7de77dd8dd50025ba",
+                      "6985ec9fc848f05f4600f6b9");
+                    break;
+                case "5bfe89510db834001808a127":
+                    slotHelper.EnsureSlot(item, "mod_stock_003", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_003",
+                      "6984b82c5aab442620032fe8",
+                      "6985eca7de77dd8dd50025ba",
+                      "6985ec9fc848f05f4600f6b9",
+                      "698b338649b46ae2d0092e82",
+                      "698b358b49b46ae2d0092e86",
+                      "698b3592e700c6d632003753");
+                    break;
+                case "5cf50fc5d7f00c056c53f83c":
+                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                      "6984b82c5aab442620032fe8",
+                      "6985eca7de77dd8dd50025ba",
+                      "6985ec9fc848f05f4600f6b9",
+                      "698b338649b46ae2d0092e82",
+                      "698b358b49b46ae2d0092e86",
+                      "698b3592e700c6d632003753");
+                    break;
+                case "5cf518cfd7f00c065b422214":
+                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                      "6984b82c5aab442620032fe8",
+                      "6985eca7de77dd8dd50025ba",
+                      "6985ec9fc848f05f4600f6b9",
+                      "698b338649b46ae2d0092e82",
+                      "698b358b49b46ae2d0092e86",
+                      "698b3592e700c6d632003753");
+                    break;
+                case "5de65547883dde217541644b":
+                    slotHelper.EnsureSlot(item, "mod_muzzle", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_muzzle",
+                      "5de6556a205ddc616a6bc4f7",
+                      "5a9fbb74a2750c0032157181");
+                    break;
                 case "5e00c1ad86f774747333222c":
                     slotHelper.EnsureSlot(item, "mod_equipment_002", "55d30c4c4bdc2db4468b457e");
                     slotHelper.AddIdsToNamedSlot(item, "mod_equipment_002",
                         "69e24f4f9e6ca1b32508bfbc");
+                    break;
+                case "5ef1ba28c64c5d0dfc0571a5":
+                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                      "6984b82c5aab442620032fe8",
+                      "6985eca7de77dd8dd50025ba",
+                      "6985ec9fc848f05f4600f6b9",
+                      "698b338649b46ae2d0092e82",
+                      "698b358b49b46ae2d0092e86",
+                      "698b3592e700c6d632003753");
+                    break;
+                case "5c793fc42e221600114ca25d":
+                    slotHelper.EnsureSlot(item, "mod_stock_003", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_003",
+                      "6984b82c5aab442620032fe8",
+                      "6985eca7de77dd8dd50025ba",
+                      "6985ec9fc848f05f4600f6b9",
+                      "698b338649b46ae2d0092e82",
+                      "698b358b49b46ae2d0092e86",
+                      "698b3592e700c6d632003753");
+                    break;
+                case "5c793fb92e221644f31bfb64":
+                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                      "6984b82c5aab442620032fe8",
+                      "6985eca7de77dd8dd50025ba",
+                      "6985ec9fc848f05f4600f6b9");
+                    break;
+                case "5afd7e095acfc40017541f61":
+                    slotHelper.EnsureSlot(item, "mod_stock_001", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_001",
+                      "6984b82c5aab442620032fe8",
+                      "6985eca7de77dd8dd50025ba",
+                      "6985ec9fc848f05f4600f6b9",
+                      "698b338649b46ae2d0092e82",
+                      "698b358b49b46ae2d0092e86",
+                      "698b3592e700c6d632003753");
+                    break;
+
+                case "5649be884bdc2d79388b4577":
+                    slotHelper.EnsureSlot(item, "mod_stock_003", "55d30c4c4bdc2db4468b457e");
+                    slotHelper.AddIdsToNamedSlot(item, "mod_stock_003",
+                        "6984b82c5aab442620032fe8",
+                        "6985eca7de77dd8dd50025ba",
+                        "6985ec9fc848f05f4600f6b9",
+                        "698b338649b46ae2d0092e82",
+                        "698b358b49b46ae2d0092e86",
+                        "698b3592e700c6d632003753");
+                    break;
+                case "66740c3739b9da6ce402ee65":
+                    var cultistGrid = item.Properties.Grids?.FirstOrDefault();
+                    var cultistFilters = cultistGrid?.Properties?.Filters?.FirstOrDefault();
+                    var cultistFilter = cultistFilters?.Filter;
+                    var cultistFilterExcluded = cultistFilters?.ExcludedFilter;
+
+                    if (cultistFilter == null)
+                        break;
+
+                    foreach (var allowedId in CultistCircleIds)
+                    {
+                        cultistFilter.Add(allowedId);
+                    }
+                    foreach (var excludedId in CultistCircleExcludedIds)
+                    {
+                        cultistFilterExcluded?.Add(excludedId);
+                    }
                     break;
                 case "652910ef50dc782999054b97":
                     slotHelper.AddIdsToNamedSlot(item, "mod_mount_000",
@@ -942,6 +1122,7 @@ public class BaseGameItemEdits(
                     break;
                 case "66bc98a01a47be227a5e956e":
                     item.Properties.Grids.FirstOrDefault().Properties.CellsH = 8;
+                    item.Properties.Grids.FirstOrDefault().Properties.CellsV = 11;
                     var filter = item.Properties.Grids.FirstOrDefault().Properties.Filters.FirstOrDefault().Filter;
                     filter.Add("6937edb912d456a817083e82");
                     filter.Add("6937ecf8628ee476240c07cb");
@@ -950,6 +1131,10 @@ public class BaseGameItemEdits(
                     filter.Add("69f9d319c906cd16da03b374");
                     filter.Add("69f9d547b98cc4120608692a");
                     filter.Add("69f9d60b5de6674f08060f2a");
+                    filter.Add("6a3532423ec9d7082a05d430");
+                    filter.Add("6a35322b81d315afe1018ef3");
+                    filter.Add("6a3557f841667bc4bb00fea4");
+                    filter.Add("6a4ce086b5644e9f0a08d08a");
                     break;
                 case "5929a2a086f7744f4b234d43":
                     item.Properties.Prefab.Path =
