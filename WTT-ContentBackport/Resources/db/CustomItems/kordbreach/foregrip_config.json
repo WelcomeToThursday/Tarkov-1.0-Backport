@@ -10,7 +10,9 @@
             "BackgroundColor": "blue",
             "CanRequireOnRagfair": false,
             "CanSellOnRagfair": true,
-            "ConflictingItems": [],
+            "ConflictingItems": [
+              "62e7e7bbe6da9612f743f1e0"
+            ],
             "Description": "foregrip_all_magpul_rvg_blk",
             "DiscardLimit": -1,
             "DiscardingBlock": false,
@@ -135,7 +137,9 @@
             "BackgroundColor": "blue",
             "CanRequireOnRagfair": false,
             "CanSellOnRagfair": true,
-            "ConflictingItems": [],
+            "ConflictingItems": [
+              "62e7e7bbe6da9612f743f1e0"
+            ],
             "Description": "foregrip_all_magpul_rvg_blk",
             "DiscardLimit": -1,
             "DiscardingBlock": false,
