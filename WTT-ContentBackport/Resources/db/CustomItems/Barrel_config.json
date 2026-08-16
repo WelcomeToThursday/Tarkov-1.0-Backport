@@ -736,7 +736,8 @@
         "5d00f63bd7ad1a59283b1c1e",
         "5c78f2792e221600106f4683",
         "5c78f26f2e221601da3581d1",
-        "647de824196bf69818044c93"
+        "647de824196bf69818044c93",
+        "5c78f2882e22165df16b832e"
       ],
       "Description": "barrel_ar15_colt_m16_std_508mm\n",
       "DiscardLimit": -1,
@@ -2860,7 +2861,8 @@
         "68a63ccc8a85019a82087956",
         "5c0e2f5cd174af02a012cfc9",
         "647de824196bf69818044c93",
-        "5c78f26f2e221601da3581d1"
+        "5c78f26f2e221601da3581d1",
+        "5c78f2882e22165df16b832e"
       ],
       "Description": "barrel_ar15_457mm",
       "DiscardLimit": -1,
