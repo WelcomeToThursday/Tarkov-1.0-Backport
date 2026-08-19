@@ -138,7 +138,9 @@
       "BackgroundColor": "blue",
       "CanRequireOnRagfair": false,
       "CanSellOnRagfair": true,
-      "ConflictingItems": [],
+      "ConflictingItems": [
+          "5c78f2882e22165df16b832e"
+      ],
       "Description": "silencer_base_bt_print_x_type20_556x45",
       "DiscardLimit": -1,
       "DiscardingBlock": false,
@@ -264,7 +266,9 @@
       "BackgroundColor": "blue",
       "CanRequireOnRagfair": false,
       "CanSellOnRagfair": true,
-      "ConflictingItems": [],
+      "ConflictingItems": [
+          "5c78f2882e22165df16b832e"
+      ],
       "Description": "silencer_base_sig_srd_762_qd_762x51",
       "DiscardLimit": -1,
       "DiscardingBlock": false,
@@ -391,7 +395,9 @@
       "BackgroundColor": "blue",
       "CanRequireOnRagfair": false,
       "CanSellOnRagfair": true,
-      "ConflictingItems": [],
+      "ConflictingItems": [
+          "5c78f2882e22165df16b832e"
+      ],
       "Description": "silencer_base_sig_srd_762_qd_762x51",
       "DiscardLimit": -1,
       "DiscardingBlock": false,
