@@ -8,7 +8,9 @@
       "BackgroundColor": "blue",
       "CanRequireOnRagfair": false,
       "CanSellOnRagfair": false,
-      "ConflictingItems": [],
+      "ConflictingItems": [
+        "62e7e7bbe6da9612f743f1e0"
+      ],
       "Description": "foregrip_all_td_aluminum_skeletonized",
       "DiscardLimit": -1,
       "DiscardingBlock": false,
@@ -131,7 +133,9 @@
       "BackgroundColor": "blue",
       "CanRequireOnRagfair": false,
       "CanSellOnRagfair": false,
-      "ConflictingItems": [],
+      "ConflictingItems": [
+        "62e7e7bbe6da9612f743f1e0"
+      ],
       "Description": "foregrip_all_td_aluminum_skeletonized",
       "DiscardLimit": -1,
       "DiscardingBlock": false,

@@ -2387,7 +2387,9 @@
       "BackgroundColor": "blue",
       "CanRequireOnRagfair": false,
       "CanSellOnRagfair": true,
-      "ConflictingItems": [],
+      "ConflictingItems": [
+          "6357c98711fb55120211f7e1"
+      ],
       "Description": "Цевье Daniel Defence RIS II 9.5. Является частью программы SOPMOD Block II для замены штатного цевья карабина M4CQBR или Mk18 в подразделениях US SOCOM. Выполнено из легкого и прочного авиационного алюминия. Снабжено 4-мя направляющими для крепления дополнительного оборудования. Данный вариант цевья не совместим с подствольным гранатометом  М203.",
       "DiscardLimit": -1,
       "DiscardingBlock": false,
@@ -4145,7 +4147,9 @@
       "BackgroundColor": "blue",
       "CanRequireOnRagfair": false,
       "CanSellOnRagfair": true,
-      "ConflictingItems": [],
+      "ConflictingItems": [
+          "6357c98711fb55120211f7e1"
+      ],
       "Description": "Цевье Daniel Defence RIS II 9.5. Является частью программы SOPMOD Block II для замены штатного цевья карабина M4CQBR или Mk18 в подразделениях US SOCOM. Выполнено из легкого и прочного авиационного алюминия. Снабжено 4-мя направляющими для крепления дополнительного оборудования. Данный вариант цевья не совместим с подствольным гранатометом  М203.",
       "DiscardLimit": -1,
       "DiscardingBlock": false,

@@ -1193,9 +1193,7 @@
       "BackgroundColor": "blue",
       "CanRequireOnRagfair": false,
       "CanSellOnRagfair": true,
-      "ConflictingItems": [
-        "619b69037b9de8162902673e"
-      ],
+      "ConflictingItems": [],
       "Description": "stock_all_magpul_ucs_fde",
       "DiscardLimit": -1,
       "DiscardingBlock": false,
@@ -2350,7 +2348,9 @@
       "BackgroundColor": "blue",
       "CanRequireOnRagfair": false,
       "CanSellOnRagfair": true,
-      "ConflictingItems": [],
+      "ConflictingItems": [
+        "619b69037b9de8162902673e"
+      ],
       "Description": "stock_ak_samson_1913_stock_adapter\n\n",
       "DiscardLimit": -1,
       "DiscardingBlock": false,
