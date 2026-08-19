@@ -49,7 +49,7 @@ namespace EFT.UI
             videoPlayer.targetMaterialRenderer = targetRenderer;
             videoPlayer.targetMaterialProperty = materialProperty;
 
-            videoPlayer.playOnAwake = false;
+            videoPlayer.playOnAwake = true;
             videoPlayer.isLooping = true;
             videoPlayer.waitForFirstFrame = true;
             videoPlayer.skipOnDrop = true;
