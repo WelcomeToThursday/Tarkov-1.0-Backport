@@ -1,0 +1,42 @@
+{
+  "6a3e61337462374d270c6696": {
+    "path": "assets/content/characters/character/prefabs/bear_head_bp_leonid_vera.bundle",
+    "addHeadToPlayer": false,
+    "side": [
+      "Bear"
+    ],
+    "locales": {
+      "en": "Knyazev"
+    }
+  },
+  "6a3e614ef7864d27bd030bfc": {
+    "path": "assets/content/characters/character/prefabs/bear_head_bp_leonid_verb.bundle",
+    "addHeadToPlayer": false,
+    "side": [
+      "Bear"
+    ],
+    "locales": {
+      "en": "Knyazev (After Battle)"
+    }
+  },
+  "6a3e6177da479effd5076f1c": {
+    "path": "assets/content/characters/character/prefabs/usec_head_bp_celt_vera.bundle",
+    "addHeadToPlayer": false,
+    "side": [
+      "Usec"
+    ],
+    "locales": {
+      "en": "O’Connor"
+    }
+  },
+  "6a3e6183d2260323500c178a": {
+    "path": "assets/content/characters/character/prefabs/usec_head_bp_celt_verb.bundle",
+    "addHeadToPlayer": false,
+    "side": [
+      "Usec"
+    ],
+    "locales": {
+      "en": "O’Connor (After Battle)"
+    }
+  }
+}

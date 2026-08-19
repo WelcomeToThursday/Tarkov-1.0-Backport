@@ -1,0 +1,29 @@
+{
+  "6a1d7767b27e39cbd4054a37": {
+    "locales": {
+      "en": "Tony"
+    },
+    "name": "Tony",
+    "side": [ "Usec" ],
+    "addVoiceToPlayer": false,
+    "bundlePath": "assets/content/audio/phrases/usec_09_tony_voice.bundle"
+  },
+  "6a57a87c86d1b3f59a039fbd": {
+    "locales": {
+      "en": "Anton"
+    },
+    "name": "Anton",
+    "side": [ "Bear" ],
+    "addVoiceToPlayer": false,
+    "bundlePath": "assets/content/audio/phrases/bear_06_anton_voice.bundle"
+  },
+  "6a57a9a7115aad3e1c000e30": {
+    "locales": {
+      "en": "Garrett"
+    },
+    "name": "Garrett",
+    "side": [ "Usec" ],
+    "addVoiceToPlayer": false,
+    "bundlePath": "assets/content/audio/phrases/usec_10_garrett_voice.bundle"
+  }
+}

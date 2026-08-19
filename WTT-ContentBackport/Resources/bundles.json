@@ -9,6 +9,10 @@
       "dependencyKeys": []
     },
     {
+      "key": "assets/content/audio/phrases/bear_06_anton_voice.bundle",
+      "dependencyKeys": []
+    },
+    {
       "key": "assets/content/audio/phrases/black_division/black_division_01/command.bundle",
       "dependencyKeys": []
     },
@@ -410,6 +414,14 @@
       "dependencyKeys": []
     },
     {
+      "key": "assets/content/audio/phrases/usec_09_tony_voice.bundle",
+      "dependencyKeys": []
+    },
+    {
+      "key": "assets/content/audio/phrases/usec_10_garrett_voice.bundle",
+      "dependencyKeys": []
+    },
+    {
       "key": "assets/content/audio/phrases/vsrf_01_voice.bundle",
       "dependencyKeys": []
     },
@@ -420,6 +432,20 @@
     {
       "key": "assets/content/audio/weapons/knife_bayonet.bundle",
       "dependencyKeys": []
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/bear_head_bp_leonid_vera.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/bear_head_bp_leonid_verb.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
     },
     {
       "key": "assets/content/characters/character/prefabs/bear_head_vas_tattoo.bundle",
@@ -548,6 +574,13 @@
       ]
     },
     {
+      "key": "assets/content/characters/character/prefabs/pants_bear_tank.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/characters/character/prefabs/pants_bear_winterset_2.bundle",
       "dependencyKeys": [
         "shaders",
@@ -556,6 +589,27 @@
     },
     {
       "key": "assets/content/characters/character/prefabs/pants_boss_wedge.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/pants_bp_bd_set_1.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/pants_bp_bd_set_2.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/pants_bp_bd_shorts.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps"
@@ -612,6 +666,13 @@
     },
     {
       "key": "assets/content/characters/character/prefabs/pants_usec_goptac_2.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/pants_usec_pirate.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps"
@@ -793,6 +854,13 @@
       ]
     },
     {
+      "key": "assets/content/characters/character/prefabs/top_bp_bd_hawaii.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/characters/character/prefabs/top_civilian_port_jacket_orange.bundle",
       "dependencyKeys": [
         "shaders",
@@ -919,10 +987,52 @@
       ]
     },
     {
+      "key": "assets/content/characters/character/prefabs/tshirt_bear_tank.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/tshirt_bp_bd_set_1.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/tshirt_bp_bd_set_2.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/tshirt_usec_pirate.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
       "key": "assets/content/characters/character/prefabs/tshirt_usec_summerset_g4.bundle",
       "dependencyKeys": [
         "cubemaps",
         "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/usec_head_bp_celt_vera.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/characters/character/prefabs/usec_head_bp_celt_verb.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
       ]
     },
     {
@@ -1077,11 +1187,39 @@
       ]
     },
     {
+      "key": "assets/content/hands/hands_bear_tank/hands_bear_tank.skin.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
       "key": "assets/content/hands/hands_bear_winterset_2/hands_bear_winterset_2.skin.bundle",
       "dependencyKeys": [
         "cubemaps",
         "shaders",
         "assets/content/hands/bear/bear_watch.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/hands/hands_bp_bd_hawaii/hands_bp_bd_hawaii.skin.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/hands/hands_bp_bd_set1/hands_bp_bd_set1.skin.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/hands/hands_bp_bd_set2/hands_bp_bd_set2.skin.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps"
       ]
     },
     {
@@ -1103,6 +1241,13 @@
       "dependencyKeys": [
         "shaders",
         "cubemaps"
+      ]
+    },
+    {
+      "key": "assets/content/hands/hands_usec_pirate/hands_usec_pirate.skin.bundle",
+      "dependencyKeys": [
+        "cubemaps",
+        "shaders"
       ]
     },
     {

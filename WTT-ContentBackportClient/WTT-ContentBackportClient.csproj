@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Description>A common library for adding slot images, rig layouts, and voices to the client</Description>
     <AssemblyVersion>$(Version)</AssemblyVersion>
-    <Version>2.0.0</Version>
+    <Version>2.0.1</Version>
     <Authors>GrooveypenguinX</Authors>
     <Description>WTT Content Backport Client</Description>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>

@@ -1,0 +1,222 @@
+[
+  {
+    "type": "top",
+    "suiteId": "6a3d258c49fe4bef39034610",
+    "outfitId": "6a3d258c49fe4bef39034610",
+    "topId": "6a3d22689c27a8a7550fe380",
+    "handsId": "6a3d2365edbde7807f07b113",
+    "locales": {
+      "en": {
+        "name": "MC Black shirt",
+        "description": "Tactical shirt"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/top_bp_bd_hawaii.bundle",
+    "handsBundlePath": "assets/content/hands/hands_bp_bd_hawaii/hands_bp_bd_hawaii.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": [ "694c5527d1d40bd7db9a571a" ]
+  },
+  {
+    "type": "top",
+    "suiteId": "6a3d255b5c4035ee76048122",
+    "outfitId": "6a3d255b5c4035ee76048122",
+    "topId": "6a3d21d05f92d4bd690fadd0",
+    "handsId": "6a3d23cff69c0e3a4b05f8e9",
+    "locales": {
+      "en": {
+        "name": "Scorpion upper",
+        "description": "Tactical shirt"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/tshirt_bp_bd_set_1.bundle",
+    "handsBundlePath": "assets/content/hands/hands_bp_bd_set1/hands_bp_bd_set1.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": [ "694c5527d1d40bd7db9a571a" ]
+  },
+  {
+    "type": "top",
+    "suiteId": "6a3d2576d055f047a20fff62",
+    "outfitId": "6a3d2576d055f047a20fff62",
+    "topId": "6a3d223d93da421c9e03d39b",
+    "handsId": "6a3d23ef9c27a8a7550fe389",
+    "locales": {
+      "en": {
+        "name": "Nocturnal upper",
+        "description": "Combat shirt"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/tshirt_bp_bd_set_2.bundle",
+    "handsBundlePath": "assets/content/hands/hands_bp_bd_set2/hands_bp_bd_set2.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": [ "694c5527d1d40bd7db9a571a" ]
+  },
+  {
+    "type": "top",
+    "suiteId": "692ea575e6b51e2e680c14e5",
+    "outfitId": "692ea575e6b51e2e680c14e5",
+    "topId": "692e9d9da658cccb560b8356",
+    "handsId": "692e9df1ea74444ec30a28cb",
+    "locales": {
+      "en": {
+        "name": "BEAR Winged Infantry",
+        "description": "Telnik"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/tshirt_bear_tank.bundle",
+    "handsBundlePath": "assets/content/hands/hands_bear_tank/hands_bear_tank.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": [ "694c5527d1d40bd7db9a571a" ]
+  },
+  {
+    "type": "top",
+    "suiteId": "692eb267311ead1025025618",
+    "outfitId": "692eb267311ead1025025618",
+    "topId": "692eb1c940d144d02606c2ff",
+    "handsId": "692eb247311ead1025025616",
+    "locales": {
+      "en": {
+        "name": "USEC Corsair",
+        "description": "Combat shirt"
+      }
+    },
+    "topBundlePath": "assets/content/characters/character/prefabs/tshirt_usec_pirate.bundle",
+    "handsBundlePath": "assets/content/hands/hands_usec_pirate/hands_usec_pirate.skin.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": [ "694c5527d1d40bd7db9a571a" ]
+  },
+  {
+    "type": "bottom",
+    "suiteId": "692ea5d840d144d02606c2fd",
+    "outfitId": "692ea5d840d144d02606c2fd",
+    "bottomId": "692e9dcf0e2335306408a5de",
+    "locales": {
+      "en": {
+        "name": "BEAR Winged Infantry",
+        "description": "Combat pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bear_tank.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": [ "694c5527d1d40bd7db9a571a" ]
+  },
+  {
+    "type": "bottom",
+    "suiteId": "6a3d24f45c4035ee7604811d",
+    "outfitId": "6a3d24f45c4035ee7604811d",
+    "bottomId": "6a3d22da7d9cd060470522f0",
+    "locales": {
+      "en": {
+        "name": "Scorpion lower",
+        "description": "Jeans"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bp_bd_set_1.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": [ "694c5527d1d40bd7db9a571a" ]
+  },
+  {
+    "type": "bottom",
+    "suiteId": "6a3d2510230310af560f3d92",
+    "outfitId": "6a3d2510230310af560f3d92",
+    "bottomId": "6a3d22f39c27a8a7550fe384",
+    "locales": {
+      "en": {
+        "name": "Nocturnal lower",
+        "description": "Combat pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bp_bd_set_2.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": [ "694c5527d1d40bd7db9a571a" ]
+  },
+  {
+    "type": "bottom",
+    "suiteId": "6a3d251ed055f047a20fff5f",
+    "outfitId": "6a3d251ed055f047a20fff5f",
+    "bottomId": "6a3d230e93da421c9e03d3a0",
+    "locales": {
+      "en": {
+        "name": "Tactical shorts",
+        "description": "Tactical shorts"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_bp_bd_shorts.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": [ "694c5527d1d40bd7db9a571a" ]
+  },
+  {
+    "type": "bottom",
+    "suiteId": "692eb29640d144d02606c301",
+    "outfitId": "692eb29640d144d02606c301",
+    "bottomId": "692eb210e79aee6550068a16",
+    "locales": {
+      "en": {
+        "name": "USEC Corsair",
+        "description": "Combat pants"
+      }
+    },
+    "bottomBundlePath": "assets/content/characters/character/prefabs/pants_usec_pirate.bundle",
+    "traderId": "5ac3b934156ae10c4430e83c",
+    "loyaltyLevel": 1,
+    "profileLevel": 1,
+    "standing": 0,
+    "currencyId": "MONEY_ROUBLES",
+    "price": 150,
+    "questRequirements": [],
+    "achievementRequirements": [ "694c5527d1d40bd7db9a571a" ]
+  }
+]

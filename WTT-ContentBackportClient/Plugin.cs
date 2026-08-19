@@ -7,7 +7,7 @@ using WTTContentBackportClient.Patches;
 
 namespace WTTContentBackportClient
 {
-    [BepInPlugin("com.wtt.contentbackport", "WTT-ContentBackportClient", "2.0.0")]
+    [BepInPlugin("com.wtt.contentbackport", "WTT-ContentBackportClient", "2.0.1")]
     public class Plugin : BaseUnityPlugin
     {
         internal static RuntimeAnimatorController MannequinController { get; private set; }
