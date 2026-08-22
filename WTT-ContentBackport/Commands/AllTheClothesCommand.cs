@@ -24,8 +24,6 @@ public class AllTheClothesCommand(
     RewardHelper rewardHelper,
     ProfileHelper profileHelper) : ISptCommand
 {
-
-    
     public ValueTask<string> PerformAction(UserDialogInfo commandHandler, MongoId sessionId, SendMessageRequest request)
     {
         var profile = profileHelper.GetFullProfile(sessionId);
@@ -65,16 +63,7 @@ public class AllTheClothesCommand(
         return new ValueTask<string>(request.DialogId);
     }
 
-    public string Command
-    {
-        get { return "givemealltheclothes"; }
-    }
+    public string Command => "givemealltheclothes";
 
-    public string CommandHelp
-    {
-        get
-        {
-            return "Usage: Unlocks all Black Division, RUAF, and Civilian customizations";
-        }
-    }
+    public string CommandHelp => "Usage: Unlocks all Black Division, RUAF, and Civilian customizations";
 }

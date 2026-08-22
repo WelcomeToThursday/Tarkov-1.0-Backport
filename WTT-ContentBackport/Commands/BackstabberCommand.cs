@@ -27,16 +27,7 @@ public class BackstabberCommand(
         return new ValueTask<string>(request.DialogId);
     }
 
-    public string Command
-    {
-        get { return "backstabber"; }
-    }
+    public string Command => "backstabber";
 
-    public string CommandHelp
-    {
-        get
-        {
-            return "Usage: Unlocks access to all post 1.0 Arena/Battlepass clothing";
-        }
-    }
+    public string CommandHelp => "Usage: Unlocks access to all post 1.0 Arena/Battlepass clothing";
 }
