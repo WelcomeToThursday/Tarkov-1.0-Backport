@@ -65,16 +65,7 @@ public class AllTheClothesCommand(
         return new ValueTask<string>(request.DialogId);
     }
 
-    public string Command
-    {
-        get { return "givemealltheclothes"; }
-    }
+    public string Command => "givemealltheclothes";
 
-    public string CommandHelp
-    {
-        get
-        {
-            return "Usage: Unlocks all Black Division, RUAF, and Civilian customizations";
-        }
-    }
+    public string CommandHelp => "Usage: Unlocks all Black Division, RUAF, and Civilian customizations";
 }

@@ -103,16 +103,7 @@ public class PreorderCommand(
         return new ValueTask<string>(request.DialogId);
     }
 
-    public string Command
-    {
-        get { return "shutupandtakemyroubles"; }
-    }
+    public string Command => "shutupandtakemyroubles";
 
-    public string CommandHelp
-    {
-        get
-        {
-            return "Usage: Receive all preorder/beta content";
-        }
-    }
+    public string CommandHelp => "Usage: Receive all preorder/beta content";
 }

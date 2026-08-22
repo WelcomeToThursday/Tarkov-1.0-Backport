@@ -67,16 +67,7 @@ public class SixSevenPrestigeCommand(
         return new ValueTask<string>(request.DialogId);
     }
 
-    public string Command
-    {
-        get { return "67prestige"; }
-    }
+    public string Command => "67prestige";
 
-    public string CommandHelp
-    {
-        get
-        {
-            return "Usage: Receive Prestige 5 and 6 content";
-        }
-    }
+    public string CommandHelp => "Usage: Receive Prestige 5 and 6 content";
 }
