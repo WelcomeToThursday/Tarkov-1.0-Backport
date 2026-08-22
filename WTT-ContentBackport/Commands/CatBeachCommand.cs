@@ -20,27 +20,33 @@ public class CatBeachCommand(
     public ValueTask<string> PerformAction(UserDialogInfo commandHandler, MongoId sessionId, SendMessageRequest request)
     {
         var profile = profileHelper.GetFullProfile(sessionId);
+        var pmcProfile = profile.CharacterData?.PmcData;
+        var side = pmcProfile?.Info?.Side;
+        
         rewardHelper.AddAchievementToProfile(profile, "6948990c05f4f91bdb9a56f3");
 
-        IEnumerable<MongoId> kordBreachHeads =
+        IEnumerable<MongoId> kordBreachHeadsBear =
         [
-            // bear
             "6a3e61337462374d270c6696",
             "6a3e614ef7864d27bd030bfc",
-            // usec
+        ];
+
+        IEnumerable<MongoId> kordBreachHeadsUsec = 
+        [
             "6a3e6177da479effd5076f1c",
             "6a3e6183d2260323500c178a"
         ];
 
-        IEnumerable<MongoId> kordBreachVoices =
+        IEnumerable<MongoId> kordBreachVoicesUsec =
         [
             // usec
             "6a1d7767b27e39cbd4054a37",
             "6a57a9a7115aad3e1c000e30",
             // bear
-            "6a57a87c86d1b3f59a039fbd"
         ];
 
+        MongoId kordBreachVoiceBear = "6a57a87c86d1b3f59a039fbd";
+        
         IEnumerable<MongoId> kordBreachDogtags =
         [
             "6a354c9673339990030ca46d",
@@ -50,8 +56,17 @@ public class CatBeachCommand(
             "6a354c14bc8aada00006655f"
         ];
 
-        profile.AddCustomisations(kordBreachHeads, "head", CustomisationSource.DEFAULT);
-        profile.AddCustomisations(kordBreachVoices, "voice", CustomisationSource.DEFAULT);
+        if (side?.ToLower() == "bear")
+        {
+            profile.AddCustomisations(kordBreachHeadsBear, "head", CustomisationSource.DEFAULT);
+            profile.AddCustomisation(kordBreachVoiceBear, "voice");
+        }
+        else
+        {
+            profile.AddCustomisations(kordBreachHeadsUsec, "head", CustomisationSource.DEFAULT);
+            profile.AddCustomisations(kordBreachVoicesUsec, "voice", CustomisationSource.DEFAULT);
+        }
+        
         profile.AddCustomisations(kordBreachDogtags, "dogTag", CustomisationSource.DEFAULT);
         
         mailSendService.SendUserMessageToPlayer(sessionId, commandHandler, "This REQUIRES a full game restart in order to see the new Head, Voice, and Dog Tag options.");
