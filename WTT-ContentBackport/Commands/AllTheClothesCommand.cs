@@ -24,8 +24,6 @@ public class AllTheClothesCommand(
     RewardHelper rewardHelper,
     ProfileHelper profileHelper) : ISptCommand
 {
-
-    
     public ValueTask<string> PerformAction(UserDialogInfo commandHandler, MongoId sessionId, SendMessageRequest request)
     {
         var profile = profileHelper.GetFullProfile(sessionId);
