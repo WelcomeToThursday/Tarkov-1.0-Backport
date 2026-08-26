@@ -99,16 +99,7 @@ public class TwitchGuyCommand(
 
     }
 
-    public string Command
-    {
-        get { return "twitchguytwitchguytwitchguy"; }
-    }
+    public string Command => "twitchguytwitchguytwitchguy";
 
-    public string CommandHelp
-    {
-        get
-        {
-            return "Usage: Receive all post 1.0 Twitch drop content";
-        }
-    }
+    public string CommandHelp => "Usage: Receive all post 1.0 Twitch drop content";
 }

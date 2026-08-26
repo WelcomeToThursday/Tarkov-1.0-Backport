@@ -24,12 +24,8 @@ public class NikitasVoiceCommand(
     RewardHelper rewardHelper,
     ProfileHelper profileHelper) : ISptCommand
 {
-
-    
     public ValueTask<string> PerformAction(UserDialogInfo commandHandler, MongoId sessionId, SendMessageRequest request)
     {
-
-        
         var profile = profileHelper.GetFullProfile(sessionId);
         rewardHelper.AddAchievementToProfile(profile, "6948990c05f4f91bdb9a56f3");
         var pmcProfile = profile.CharacterData?.PmcData;
@@ -46,16 +42,7 @@ public class NikitasVoiceCommand(
         return new ValueTask<string>(request.DialogId);
     }
 
-    public string Command
-    {
-        get { return "nikitasvoice"; }
-    }
+    public string Command => "nikitasvoice";
 
-    public string CommandHelp
-    {
-        get
-        {
-            return "Usage: Receive Nikita's Voice";
-        }
-    }
+    public string CommandHelp => "Usage: Receive Nikita's Voice";
 }
