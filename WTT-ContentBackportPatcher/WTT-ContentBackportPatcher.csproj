@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>net472</TargetFramework>
@@ -16,50 +16,50 @@
   
   <ItemGroup>
     <Reference Include="0Harmony">
-      <HintPath>..\..\..\BepInEx\core\0Harmony.dll</HintPath>
+      <HintPath>$(SPTPath)\BepInEx\core\0Harmony.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp">
-      <HintPath>..\..\..\EscapeFromTarkov_Data\Managed\Assembly-CSharp.dll</HintPath>
+      <HintPath>$(SPTPath)\EscapeFromTarkov_Data\Managed\Assembly-CSharp.dll</HintPath>
     </Reference>
     <Reference Include="BepInEx">
-      <HintPath>..\..\..\BepInEx\core\BepInEx.dll</HintPath>
+      <HintPath>$(SPTPath)\BepInEx\core\BepInEx.dll</HintPath>
     </Reference>
     <Reference Include="Comfort">
-      <HintPath>..\..\..\EscapeFromTarkov_Data\Managed\Comfort.dll</HintPath>
+      <HintPath>$(SPTPath)\EscapeFromTarkov_Data\Managed\Comfort.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Cecil">
-      <HintPath>..\..\..\BepInEx\core\Mono.Cecil.dll</HintPath>
+      <HintPath>$(SPTPath)\BepInEx\core\Mono.Cecil.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json">
-      <HintPath>..\..\..\EscapeFromTarkov_Data\Managed\Newtonsoft.Json.dll</HintPath>
+      <HintPath>$(SPTPath)\EscapeFromTarkov_Data\Managed\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="spt-common">
-      <HintPath>..\..\..\BepInEx\plugins\spt\spt-common.dll</HintPath>
+      <HintPath>$(SPTPath)\BepInEx\plugins\spt\spt-common.dll</HintPath>
     </Reference>
     <Reference Include="spt-core">
-      <HintPath>..\..\..\BepInEx\plugins\spt\spt-core.dll</HintPath>
+      <HintPath>$(SPTPath)\BepInEx\plugins\spt\spt-core.dll</HintPath>
     </Reference>
     <Reference Include="spt-custom">
-      <HintPath>..\..\..\BepInEx\plugins\spt\spt-custom.dll</HintPath>
+      <HintPath>$(SPTPath)\BepInEx\plugins\spt\spt-custom.dll</HintPath>
     </Reference>
     <Reference Include="spt-debugging">
-      <HintPath>..\..\..\BepInEx\plugins\spt\spt-debugging.dll</HintPath>
+      <HintPath>$(SPTPath)\BepInEx\plugins\spt\spt-debugging.dll</HintPath>
     </Reference>
     <Reference Include="spt-reflection">
-      <HintPath>..\..\..\BepInEx\plugins\spt\spt-reflection.dll</HintPath>
+      <HintPath>$(SPTPath)\BepInEx\plugins\spt\spt-reflection.dll</HintPath>
     </Reference>
     <Reference Include="spt-singleplayer">
-      <HintPath>..\..\..\BepInEx\plugins\spt\spt-singleplayer.dll</HintPath>
+      <HintPath>$(SPTPath)\BepInEx\plugins\spt\spt-singleplayer.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>..\..\..\EscapeFromTarkov_Data\Managed\UnityEngine.dll</HintPath>
+      <HintPath>$(SPTPath)\EscapeFromTarkov_Data\Managed\UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
-      <HintPath>..\..\..\EscapeFromTarkov_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
+      <HintPath>$(SPTPath)\EscapeFromTarkov_Data\Managed\UnityEngine.CoreModule.dll</HintPath>
     </Reference>
   </ItemGroup>
   
-  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
-    <Exec Command="@echo off&#xA;setlocal enabledelayedexpansion&#xA;&#xA;REM Set variables&#xA;set MODNAME=$(TargetName)&#xA;set DLLPATH=$(TargetDir)$(TargetName).dll&#xA;set OUTDIR=..\..\..\BepInEx\patchers\%MODNAME%&#xA;set RESOURCESDIR=$(ProjectDir)Resources&#xA;set BUILDOUTDIR=..\Build\BepInEx\patchers\%MODNAME%&#xA;&#xA;REM Create output directories if they don't exist&#xA;if not exist &quot;%OUTDIR%&quot; mkdir &quot;%OUTDIR%&quot;&#xA;if not exist &quot;%BUILDOUTDIR%&quot; mkdir &quot;%BUILDOUTDIR%&quot;&#xA;&#xA;REM Copy the DLL to BepInEx patchers directory&#xA;copy /Y &quot;%DLLPATH%&quot; &quot;%OUTDIR%\&quot; &gt;nul 2&gt;&amp;1&#xA;echo [PostBuild] Copied %MODNAME%.dll to %OUTDIR%&#xA;&#xA;REM Copy all contents from Resources folder recursively to BepInEx patchers folder&#xA;if exist &quot;%RESOURCESDIR%&quot; (&#xA;    xcopy &quot;%RESOURCESDIR%&quot; &quot;%OUTDIR%&quot; /E /I /Y &gt;nul 2&gt;&amp;1&#xA;    echo [PostBuild] Copied Resources to %OUTDIR%&#xA;) else (&#xA;    echo [PostBuild] Warning: Resources folder not found at %RESOURCESDIR%&#xA;)&#xA;&#xA;REM Copy the DLL to Build/BepInEx patchers directory&#xA;copy /Y &quot;%DLLPATH%&quot; &quot;%BUILDOUTDIR%\&quot; &gt;nul 2&gt;&amp;1&#xA;echo [PostBuild] Copied %MODNAME%.dll to %BUILDOUTDIR%&#xA;&#xA;REM Copy all contents from Resources folder recursively to Build folder&#xA;if exist &quot;%RESOURCESDIR%&quot; (&#xA;    xcopy &quot;%RESOURCESDIR%&quot; &quot;%BUILDOUTDIR%&quot; /E /I /Y &gt;nul 2&gt;&amp;1&#xA;    echo [PostBuild] Copied Resources to %BUILDOUTDIR%&#xA;) else (&#xA;    echo [PostBuild] Warning: Resources folder not found at %RESOURCESDIR%&#xA;)&#xA;&#xA;echo [PostBuild] BepInEx build output: %OUTDIR% and %BUILDOUTDIR%&#xA;endlocal&#xA;" />
+  <Target Condition="'$(DeployToGame)' == 'true'" Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="@echo off&#xA;setlocal enabledelayedexpansion&#xA;&#xA;REM Set variables&#xA;set MODNAME=$(TargetName)&#xA;set DLLPATH=$(TargetDir)$(TargetName).dll&#xA;set OUTDIR=$(SPTPath)\BepInEx\patchers\%MODNAME%&#xA;set RESOURCESDIR=$(ProjectDir)Resources&#xA;set BUILDOUTDIR=..\Build\BepInEx\patchers\%MODNAME%&#xA;&#xA;REM Create output directories if they don't exist&#xA;if not exist &quot;%OUTDIR%&quot; mkdir &quot;%OUTDIR%&quot;&#xA;if not exist &quot;%BUILDOUTDIR%&quot; mkdir &quot;%BUILDOUTDIR%&quot;&#xA;&#xA;REM Copy the DLL to BepInEx patchers directory&#xA;copy /Y &quot;%DLLPATH%&quot; &quot;%OUTDIR%\&quot; &gt;nul 2&gt;&amp;1&#xA;echo [PostBuild] Copied %MODNAME%.dll to %OUTDIR%&#xA;&#xA;REM Copy all contents from Resources folder recursively to BepInEx patchers folder&#xA;if exist &quot;%RESOURCESDIR%&quot; (&#xA;    xcopy &quot;%RESOURCESDIR%&quot; &quot;%OUTDIR%&quot; /E /I /Y &gt;nul 2&gt;&amp;1&#xA;    echo [PostBuild] Copied Resources to %OUTDIR%&#xA;) else (&#xA;    echo [PostBuild] Warning: Resources folder not found at %RESOURCESDIR%&#xA;)&#xA;&#xA;REM Copy the DLL to Build/BepInEx patchers directory&#xA;copy /Y &quot;%DLLPATH%&quot; &quot;%BUILDOUTDIR%\&quot; &gt;nul 2&gt;&amp;1&#xA;echo [PostBuild] Copied %MODNAME%.dll to %BUILDOUTDIR%&#xA;&#xA;REM Copy all contents from Resources folder recursively to Build folder&#xA;if exist &quot;%RESOURCESDIR%&quot; (&#xA;    xcopy &quot;%RESOURCESDIR%&quot; &quot;%BUILDOUTDIR%&quot; /E /I /Y &gt;nul 2&gt;&amp;1&#xA;    echo [PostBuild] Copied Resources to %BUILDOUTDIR%&#xA;) else (&#xA;    echo [PostBuild] Warning: Resources folder not found at %RESOURCESDIR%&#xA;)&#xA;&#xA;echo [PostBuild] BepInEx build output: %OUTDIR% and %BUILDOUTDIR%&#xA;endlocal&#xA;" />
   </Target>
 </Project>

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
@@ -71,23 +71,14 @@ namespace ContentBackportPatcher
 
         private static bool ShouldPatchAssembly(ManualLogSource logger)
         {
-            var patcherLoc = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location)
-                             ?? throw new InvalidOperationException("Patcher location was null.");
-
-            var patcherDir = new DirectoryInfo(patcherLoc);
-            var bepDir = patcherDir.Parent?.Parent
-                         ?? throw new InvalidOperationException("Failed to resolve BepInEx directory.");
-
-            var modDllLoc = Path.Combine(
-                bepDir.FullName,
-                "plugins",
-                "WTT-ContentBackportClient",
-                "WTT-ContentBackportClient.dll"
-            );
-
-            bool exists = File.Exists(modDllLoc);
-
-            return exists;
+            // A prepatcher is loaded from BepInEx/patchers, which is not a stable
+            // base for resolving a plugin's install directory. BepInEx already
+            // supplies the correct plugins root; nested mod folders are valid.
+            // Check only the exact client DLL name without loading its assembly:
+            // loading it here could resolve game types before enum patching ends.
+            return Directory.Exists(BepInEx.Paths.PluginPath)
+                && Directory.EnumerateFiles(BepInEx.Paths.PluginPath,
+                    "WTT-ContentBackportClient.dll", SearchOption.AllDirectories).Any();
         }
     }
 }
