@@ -1,0 +1,133 @@
+{
+  "6a6102a39499ae5e110a52c1": {
+    "itemTplToClone": "567143bf4bdc2d1a0f8b4567",
+    "parentId": "5671435f4bdc2d96058b4569",
+    "overrideProperties": {
+      "Grids": [
+        {
+          "_name": "main",
+          "_id": "6a6102a39499ae5e110a52c2",
+          "_parent": "6a6102a39499ae5e110a52c1",
+          "_props": {
+            "filters": [
+              {
+                "ExcludedFilter": [],
+                "Filter": [
+                  "543be5dd4bdc2deb348b4569"
+                ]
+              }
+            ],
+            "cellsH": 4,
+            "cellsV": 4,
+            "minCount": 0,
+            "maxCount": 0,
+            "maxWeight": 0,
+            "isSortingTable": false
+          },
+          "_proto": "55d329c24bdc2d892f8b4567"
+        }
+      ],
+      "Slots": [],
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "yellow",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "Carbon case",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 50,
+      "ExamineTime": 1,
+      "ExaminedByDefault": false,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 4,
+      "HideEntrails": true,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "container_case",
+      "LeftHandItem": false,
+      "LootExperience": 100,
+      "MergesWithChildren": false,
+      "Name": "Carbon case",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/quest/item_quest_container_carbon_case/item_quest_container_carbon_case.bundle",
+        "rcid": ""
+      },
+      "QuestItem": true,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "Carbon case",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 6,
+      "Width": 4,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "KeyIds": [
+        "5751961824597720a31c09ac"
+      ],
+      "TagColor": 0,
+      "TagName": ""
+    },
+    "locales": {
+      "en": {
+        "name": "Carbon fiber case",
+        "shortName": "BD case",
+        "description": "There's no telling what's inside the case. The code is almost certainly just one layer of its security."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {},
+    "registerInHandbook": false,
+    "registerInFleaPrices": false,
+    "addtoItemBlacklist": true
+  }
+}

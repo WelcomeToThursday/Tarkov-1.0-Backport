@@ -1288,6 +1288,14 @@
       ]
     },
     {
+      "key": "assets/content/items/ammo/boxes/item_ammo_box_58x42_dbp_191.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
       "key": "assets/content/items/ammo/boxes/item_ammo_box_7_62x25mm.bundle",
       "dependencyKeys": [
         "shaders",
@@ -1879,7 +1887,23 @@
       ]
     },
     {
+      "key": "assets/content/items/barter/item_barter_other_marine_kit/item_barter_other_marine_kit.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
+      ]
+    },
+    {
       "key": "assets/content/items/barter/item_barter_other_orange/item_barter_other_orange_01.bundle",
+      "dependencyKeys": [
+        "shaders",
+        "cubemaps",
+        "assets/commonassets/physics/physicsmaterials.bundle"
+      ]
+    },
+    {
+      "key": "assets/content/items/barter/item_barter_other_waterfilter_pentaqua/item_barter_other_waterfilter_pentaqua.bundle",
       "dependencyKeys": [
         "shaders",
         "cubemaps",
@@ -7963,6 +7987,14 @@
         "assets/commonassets/physics/physicsmaterials.bundle",
         "cubemaps",
         "shaders"
+      ]
+    },
+    {
+      "key": "assets/content/items/quest/item_quest_parcel/item_quest_parcel.bundle",
+      "dependencyKeys": [
+        "assets/commonassets/physics/physicsmaterials.bundle",
+        "shaders",
+        "cubemaps"
       ]
     },
     {

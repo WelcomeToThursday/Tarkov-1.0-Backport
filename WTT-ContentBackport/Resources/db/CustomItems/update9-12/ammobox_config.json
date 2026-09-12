@@ -1,0 +1,476 @@
+{
+  "6a9961d053d704c9d005660e": {
+    "itemTplToClone": "648985c074a806211e4fb682",
+    "parentId": "543be5cb4bdc2deb348b4568",
+    "handbookParentId": "5b47574386f77428ca22b33c",
+    "overrideProperties": {
+      "StackSlots": [
+        {
+          "_name": "cartridges",
+          "_id": "6a9961d053d704c9d005660f",
+          "_parent": "6a9961d053d704c9d005660e",
+          "_max_count": 30,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a42661705016139300b2085"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "yellow",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "Description": "item_ammo_box_58x42_30_dbx95",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 10,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 1,
+      "HideEntrails": true,
+      "InsuranceDisabled": true,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "ammo_pack_generic",
+      "LeftHandItem": false,
+      "LootExperience": 0,
+      "MergesWithChildren": false,
+      "Name": "item_ammo_box_58x42_30_dbx95",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/ammo/boxes/item_ammo_box_58x42_dbp_191.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 35,
+      "RarityPvE": "Rare",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "item_ammo_box_58x42_30_dbx95",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.01,
+      "Width": 1,
+      "StackMaxRandom": 30,
+      "StackMinRandom": 30,
+      "ammoCaliber": "Caliber58x42"
+    },
+    "locales": {
+      "en": {
+        "name": "5.8x42mm DBX95 ammo pack (30 pcs)",
+        "shortName": "DBX95",
+        "description": "A pack of 5.8x42 mm DBX95 ammo, 30 rounds."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 10705,
+    "handbookPriceRoubles": 1000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "6a99617d17c4dda0010df334": {
+    "itemTplToClone": "648985c074a806211e4fb682",
+    "parentId": "543be5cb4bdc2deb348b4568",
+    "handbookParentId": "5b47574386f77428ca22b33c",
+    "overrideProperties": {
+      "StackSlots": [
+        {
+          "_name": "cartridges",
+          "_id": "6a99617d17c4dda0010df335",
+          "_parent": "6a99617d17c4dda0010df334",
+          "_max_count": 30,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a07208057b2695f9d001e63"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "yellow",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": true,
+      "ConflictingItems": [],
+      "Description": "item_ammo_box_58x42_30_dbp191",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 10,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 1,
+      "HideEntrails": true,
+      "InsuranceDisabled": true,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "ammo_pack_generic",
+      "LeftHandItem": false,
+      "LootExperience": 0,
+      "MergesWithChildren": false,
+      "Name": "item_ammo_box_58x42_30_dbp191",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/ammo/boxes/item_ammo_box_58x42_dbp_191.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 35,
+      "RarityPvE": "Rare",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "item_ammo_box_58x42_30_dbp191",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.01,
+      "Width": 1,
+      "StackMaxRandom": 30,
+      "StackMinRandom": 30,
+      "ammoCaliber": "Caliber58x42"
+    },
+    "locales": {
+      "en": {
+        "name": "5.8x42mm DBP191 ammo pack (30 pcs)",
+        "shortName": "DBP191",
+        "description": "A pack of 5.8x42 mm DBP191 ammo, 30 rounds."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "fleaPriceRoubles": 34517,
+    "handbookPriceRoubles": 1000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {}
+  },
+  "6a9961ed793941a095047a7f": {
+    "itemTplToClone": "648985c074a806211e4fb682",
+    "parentId": "543be5cb4bdc2deb348b4568",
+    "handbookParentId": "5b47574386f77428ca22b33c",
+    "overrideProperties": {
+      "StackSlots": [
+        {
+          "_name": "cartridges",
+          "_id": "6a9961ed793941a095047a80",
+          "_parent": "6a9961ed793941a095047a7f",
+          "_max_count": 30,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a426637ddc63098d100ae67"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "yellow",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "item_ammo_box_58x42_30_dvx12",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 10,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 1,
+      "HideEntrails": true,
+      "InsuranceDisabled": true,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "ammo_pack_generic",
+      "LeftHandItem": false,
+      "LootExperience": 0,
+      "MergesWithChildren": false,
+      "Name": "item_ammo_box_58x42_30_dvx12",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/ammo/boxes/item_ammo_box_58x42_dbp_191.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 35,
+      "RarityPvE": "Superrare",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "item_ammo_box_58x42_30_dvx12",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.01,
+      "Width": 1,
+      "StackMaxRandom": 30,
+      "StackMinRandom": 30,
+      "ammoCaliber": "Caliber58x42"
+    },
+    "locales": {
+      "en": {
+        "name": "5.8x42mm DVX12 ammo pack (30 pcs)",
+        "shortName": "DVX12",
+        "description": "A pack of 5.8x42 mm DVX12 ammo, 30 rounds."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "handbookPriceRoubles": 1000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {},
+    "registerInFleaPrices": false,
+    "addtoItemBlacklist": true
+  },
+  "6a9961ddbdde1672b805514a": {
+    "itemTplToClone": "648985c074a806211e4fb682",
+    "parentId": "543be5cb4bdc2deb348b4568",
+    "handbookParentId": "5b47574386f77428ca22b33c",
+    "overrideProperties": {
+      "StackSlots": [
+        {
+          "_name": "cartridges",
+          "_id": "6a9961ddbdde1672b805514b",
+          "_parent": "6a9961ddbdde1672b805514a",
+          "_max_count": 30,
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "6a42662fcb506840dd053827"
+                ]
+              }
+            ]
+          },
+          "_proto": "5748538b2459770af276a261"
+        }
+      ],
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "yellow",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "item_ammo_box_58x42_30_dvc12",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 10,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 1,
+      "HideEntrails": true,
+      "InsuranceDisabled": true,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "ammo_pack_generic",
+      "LeftHandItem": false,
+      "LootExperience": 0,
+      "MergesWithChildren": false,
+      "Name": "item_ammo_box_58x42_30_dvc12",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/items/ammo/boxes/item_ammo_box_58x42_dbp_191.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 35,
+      "RarityPvE": "Superrare",
+      "RepairCost": 0,
+      "RepairSpeed": 0,
+      "ShortName": "item_ammo_box_58x42_30_dvc12",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.01,
+      "Width": 1,
+      "StackMaxRandom": 30,
+      "StackMinRandom": 30,
+      "ammoCaliber": "Caliber58x42"
+    },
+    "locales": {
+      "en": {
+        "name": "5.8x42mm DVC12 ammo pack (30 pcs)",
+        "shortName": "DVC12",
+        "description": "A pack of 5.8x42 mm DVC12 ammo, 30 rounds."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "handbookPriceRoubles": 1000,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": false,
+    "masterySections": [],
+    "addWeaponPreset": false,
+    "weaponPresets": [],
+    "addtoTraders": false,
+    "traders": {},
+    "registerInFleaPrices": false,
+    "addtoItemBlacklist": true
+  }
+}
