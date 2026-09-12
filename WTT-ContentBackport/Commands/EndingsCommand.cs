@@ -85,13 +85,7 @@ public class EndingsCommand(
         return new ValueTask<string>(request.DialogId);
     }
 
-    public string Command
-    {
-        get { return "ibeatthegameiswear"; }
-    }
+    public string Command => "ibeatthegameiswear";
 
-    public string CommandHelp
-    {
-        get { return "Usage: Receive all four endings customizations (dogtags, hideout, main menu environments, armbands, etc)"; }
-    }
+    public string CommandHelp => "Usage: Receive all four endings customizations (dogtags, hideout, main menu environments, armbands, etc)";
 }
