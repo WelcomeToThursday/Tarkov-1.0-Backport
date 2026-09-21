@@ -1,0 +1,1413 @@
+{
+  "6a78b7f8c2016eb33e0027cd": {
+    "itemTplToClone": "5cc82d76e24e8d00134b4b83",
+    "parentId": "5447b5e04bdc2d62278b4567",
+    "handbookParentId": "5b5f796a86f774093f2ed3c0",
+    "overrideProperties": {
+      "Chambers": [
+        {
+          "_name": "patron_in_weapon",
+          "_id": "6a78b7f8c2016eb33e0027d3",
+          "_parent": "6a78b7f8c2016eb33e0027cd",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5cc80f53e4a949000e1ea4f8",
+                  "5cc86832d7f00c000d3a6e6c",
+                  "5cc86840d7f00c002412c56c",
+                  "5cc80f67e4a949035e43bbba",
+                  "5cc80f38e4a949001152b560",
+                  "5cc80f8fe4a949033b0224a2",
+                  "5cc80f79e4a949033c7343b2"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_isPlateSlot": false,
+          "_isPatronSlot": true,
+          "_proto": "55d4af244bdc2d962f8b4571"
+        }
+      ],
+      "Grids": [],
+      "Slots": [
+        {
+          "_name": "mod_magazine",
+          "_id": "6a78b7f8c2016eb33e0027d0",
+          "_parent": "6a78b7f8c2016eb33e0027cd",
+          "_props": {
+            "filters": [
+              {
+                "AnimationIndex": -1,
+                "Filter": [
+                  "5cc70093e4a949033c734312"
+                ]
+              }
+            ]
+          },
+          "_required": false,
+          "_mergeSlotWithChildren": false,
+          "_isPlateSlot": false,
+          "_isPatronSlot": false,
+          "_proto": "55d30c394bdc2dae468b4577"
+        },
+        {
+          "_name": "mod_stock",
+          "_id": "6a78b7f8c2016eb33e0027d2",
+          "_parent": "6a78b7f8c2016eb33e0027cd",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5cc700b9e4a949000f0f0f25",
+                  "5cebec10d7f00c065703d185",
+                  "6a6877f566f77e6757083db5"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_isPlateSlot": false,
+          "_isPatronSlot": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_reciever",
+          "_id": "6a78b7f8c2016eb33e0027d1",
+          "_parent": "6a78b7f8c2016eb33e0027cd",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5cc700ede4a949033c734315",
+                  "5cc70102e4a949035e43ba74",
+                  "5cf7acfcd7f00c1084477cf2"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_isPlateSlot": false,
+          "_isPatronSlot": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_barrel",
+          "_id": "6a78b7f8c2016eb33e0027ce",
+          "_parent": "6a78b7f8c2016eb33e0027cd",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5cc701aae4a949000e1ea45c",
+                  "5cc701d7e4a94900100ac4e7"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_isPlateSlot": false,
+          "_isPatronSlot": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        },
+        {
+          "_name": "mod_charge",
+          "_id": "6a78b7f8c2016eb33e0027cf",
+          "_parent": "6a78b7f8c2016eb33e0027cd",
+          "_props": {
+            "filters": [
+              {
+                "Filter": [
+                  "5cc6ea78e4a949000e1ea3c1",
+                  "5cc6ea85e4a949000e1ea3c3"
+                ],
+                "Shift": 0
+              }
+            ]
+          },
+          "_required": true,
+          "_mergeSlotWithChildren": false,
+          "_isPlateSlot": false,
+          "_isPatronSlot": false,
+          "_proto": "55d30c4c4bdc2db4468b457e"
+        }
+      ],
+      "AnimationVariantsNumber": 0,
+      "BackgroundColor": "black",
+      "CanRequireOnRagfair": false,
+      "CanSellOnRagfair": false,
+      "ConflictingItems": [],
+      "Description": "weapon_fn_p90_dragon_57x28",
+      "DiscardLimit": -1,
+      "DiscardingBlock": false,
+      "ExamineExperience": 8,
+      "ExamineTime": 1,
+      "ExaminedByDefault": true,
+      "ExtraSizeDown": 0,
+      "ExtraSizeForceAdd": false,
+      "ExtraSizeLeft": 0,
+      "ExtraSizeRight": 0,
+      "ExtraSizeUp": 0,
+      "Height": 1,
+      "HideEntrails": false,
+      "InsuranceDisabled": false,
+      "IsAlwaysAvailableForInsurance": false,
+      "IsLockedafterEquip": false,
+      "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+      "IsSecretExitRequirement": false,
+      "IsSpecialSlotOnly": false,
+      "IsUnbuyable": false,
+      "IsUndiscardable": false,
+      "IsUngivable": false,
+      "IsUnremovable": false,
+      "IsUnsaleable": false,
+      "ItemSound": "weap_smg",
+      "LeftHandItem": false,
+      "LootExperience": 20,
+      "MergesWithChildren": true,
+      "Name": "weapon_fn_p90_dragon_57x28",
+      "NotShownInSlot": false,
+      "Prefab": {
+        "path": "assets/content/weapons/p90/weapon_fn_p90_dragon_57x28_container.bundle",
+        "rcid": ""
+      },
+      "QuestItem": false,
+      "QuestStashMaxCount": 0,
+      "RagFairCommissionModifier": 1,
+      "RagfairLevelToTrade": 0,
+      "RarityPvE": "Not_exist",
+      "RepairCost": 315,
+      "RepairSpeed": 15,
+      "ShortName": "weapon_fn_p90_dragon_57x28",
+      "StackMaxSize": 1,
+      "StackObjectsCount": 1,
+      "Unlootable": false,
+      "UnlootableFromSide": [],
+      "UnlootableFromSlot": "FirstPrimaryWeapon",
+      "UsePrefab": {
+        "path": "",
+        "rcid": ""
+      },
+      "Weight": 0.73,
+      "Width": 2,
+      "CanPutIntoDuringTheRaid": true,
+      "CantRemoveFromSlotsDuringRaid": [],
+      "ForbidMissingVitalParts": false,
+      "ForbidNonEmptyContainers": false,
+      "AdjustCollimatorsToTrajectory": false,
+      "AimPlane": 0.25,
+      "AimSensitivity": 0.65,
+      "AllowFeed": true,
+      "AllowJam": true,
+      "AllowMisfire": true,
+      "AllowOverheat": true,
+      "AllowSlide": true,
+      "AudioSettings": {
+        "IndoorConfig": {
+          "MaxDistance": 200,
+          "Volume": 1
+        },
+        "OutdoorConfig": {
+          "MaxDistance": 600,
+          "Volume": 1
+        },
+        "IndoorSilencedConfig": {
+          "MaxDistance": 120,
+          "Volume": 1
+        },
+        "OutdoorSilencedConfig": {
+          "MaxDistance": 300,
+          "Volume": 1
+        }
+      },
+      "BaseMalfunctionChance": 0.18975,
+      "BoltAction": false,
+      "BurstShotsCount": 3,
+      "CameraSnap": 3.5,
+      "CameraToWeaponAngleSpeedRange": {
+        "x": 0.1,
+        "y": 0.2,
+        "z": 0
+      },
+      "CameraToWeaponAngleStep": 0.1,
+      "CanQueueSecondShot": true,
+      "CanUnloadAmmoByPlayer": true,
+      "CenterOfImpact": 0.25,
+      "CompactHandling": false,
+      "CoolFactorGun": 2.87,
+      "CoolFactorGunMods": 1,
+      "DeviationCurve": 2.25,
+      "DeviationMax": 11,
+      "DoubleActionAccuracyPenalty": 1.5,
+      "Durability": 100,
+      "DurabilityBurnRatio": 1.15,
+      "Ergonomics": 59,
+      "Foldable": false,
+      "FoldedSlot": "",
+      "HeatFactorByShot": 1.69,
+      "HeatFactorGun": 1,
+      "HipAccuracyRestorationDelay": 0.2,
+      "HipAccuracyRestorationSpeed": 7,
+      "HipInnaccuracyGain": 0.16,
+      "IronSightRange": 50,
+      "IsBeltMachineGun": false,
+      "IsFlareGun": false,
+      "IsGrenadeLauncher": false,
+      "IsMountable": true,
+      "IsOneoff": false,
+      "IsStationaryWeapon": false,
+      "ManualBoltCatch": false,
+      "MaxDurability": 100,
+      "MaxRepairDegradation": 0.05,
+      "MaxRepairKitDegradation": 0.045,
+      "MetascoreGroup": "Firepower",
+      "MinRepairDegradation": 0,
+      "MinRepairKitDegradation": 0,
+      "MountCameraSnapMultiplier": 3,
+      "MountHorizontalRecoilMultiplier": 0.6,
+      "MountReturnSpeedHandMultiplier": 1,
+      "MountVerticalRecoilMultiplier": 0.85,
+      "MountingHorizontalOutOfBreathMultiplier": 0.4,
+      "MountingPosition": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "MountingVerticalOutOfBreathMultiplier": 0.8,
+      "MustBoltBeOpennedForExternalReload": false,
+      "MustBoltBeOpennedForInternalReload": false,
+      "NoFiremodeOnBoltcatch": false,
+      "OperatingResource": 6500,
+      "PostRecoilHorizontalRangeHandRotation": {
+        "x": -2,
+        "y": 2,
+        "z": 0
+      },
+      "PostRecoilVerticalRangeHandRotation": {
+        "x": -1.3,
+        "y": 0,
+        "z": 0
+      },
+      "ProgressRecoilAngleOnStable": {
+        "x": 0,
+        "y": 30,
+        "z": 0
+      },
+      "RecoilAngle": 90,
+      "RecoilCamera": 0.04,
+      "RecoilCategoryMultiplierHandRotation": 0.2,
+      "RecoilCenter": {
+        "x": 0,
+        "y": -0.32,
+        "z": -0.02
+      },
+      "RecoilDampingHandRotation": 0.85,
+      "RecoilForceBack": 255,
+      "RecoilForceUp": 57,
+      "RecoilPosZMult": 1,
+      "RecoilReturnPathDampingHandRotation": 0.45,
+      "RecoilReturnPathOffsetHandRotation": 0.01,
+      "RecoilReturnSpeedHandRotation": 1.25,
+      "RecoilStableAngleIncreaseStep": 2.4,
+      "RecoilStableIndexShot": 4,
+      "RecolDispersion": 15,
+      "ReloadMode": "ExternalMagazine",
+      "RepairComplexity": 0,
+      "ResetAfterShot": false,
+      "Retractable": false,
+      "RotationCenter": {
+        "x": 0,
+        "y": -0.13,
+        "z": 0
+      },
+      "RotationCenterNoStock": {
+        "x": 0,
+        "y": -0.38,
+        "z": -0.11
+      },
+      "ShotsGroupSettings": [
+        {
+          "EndShotIndex": 200,
+          "ShotRecoilPositionStrength": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "ShotRecoilRadianRange": {
+            "x": 6,
+            "y": -6,
+            "z": 0
+          },
+          "ShotRecoilRotationStrength": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "StartShotIndex": 1
+        }
+      ],
+      "SightingRange": 100,
+      "SingleFireRate": 450,
+      "SizeReduceRight": 0,
+      "TacticalReloadFixation": 0.95,
+      "TacticalReloadStiffnes": {
+        "x": 0.95,
+        "y": 0.33,
+        "z": 0.95
+      },
+      "UseAltMountBone": false,
+      "Velocity": 1.5,
+      "WeaponAimSettings": {
+        "Enable": true,
+        "InSpeedMultiplier": 1,
+        "OutSpeedMultiplier": 1.2,
+        "ValuesIn": [
+          {
+            "Enable": true,
+            "Target": "WeaponRotation",
+            "Process": {
+              "ComponentType": "Y",
+              "CurveTimeMultiply": 1.17823243,
+              "CurveValueMultiply": 1.2,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": -26.1497478,
+                    "outTangent": -26.1497478
+                  },
+                  {
+                    "time": 0.09754435,
+                    "value": -2.837818,
+                    "inTangent": -13.9431171,
+                    "outTangent": -13.9431171
+                  },
+                  {
+                    "time": 0.179548025,
+                    "value": -3.175755,
+                    "inTangent": 3.71565366,
+                    "outTangent": 3.71565366
+                  },
+                  {
+                    "time": 0.57720226,
+                    "value": 0.223998338,
+                    "inTangent": 0.1902567,
+                    "outTangent": 0.1902567
+                  },
+                  {
+                    "time": 0.812061846,
+                    "value": 0.0109453425,
+                    "inTangent": -0.303429842,
+                    "outTangent": -0.303429842
+                  },
+                  {
+                    "time": 0.9146098,
+                    "value": -0.00394751877,
+                    "inTangent": 0.255448222,
+                    "outTangent": 0.255448222
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "Enable": true,
+            "Target": "WeaponRotation",
+            "Process": {
+              "ComponentType": "Y",
+              "CurveTimeMultiply": 1.17823243,
+              "CurveValueMultiply": 1,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.6243488,
+                    "value": -0.0006248043,
+                    "inTangent": -0.003375746,
+                    "outTangent": -0.003375746
+                  },
+                  {
+                    "time": 0.7403451,
+                    "value": -0.166468367,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.88360393,
+                    "value": 0.09682533,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "Enable": true,
+            "Target": "CameraRotation",
+            "Process": {
+              "ComponentType": "Z",
+              "CurveTimeMultiply": 1.17823243,
+              "CurveValueMultiply": 0.6,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": -12.8875723,
+                    "outTangent": -12.8875723
+                  },
+                  {
+                    "time": 0.1420289,
+                    "value": -0.899243,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.347625047,
+                    "value": -0.00624042237,
+                    "inTangent": 0.03797835,
+                    "outTangent": 0.03797835
+                  },
+                  {
+                    "time": 0.423963547,
+                    "value": -0.0009822845,
+                    "inTangent": 0.0505164042,
+                    "outTangent": 0.0505164042
+                  },
+                  {
+                    "time": 0.6048236,
+                    "value": -0.598000765,
+                    "inTangent": -0.0395019837,
+                    "outTangent": -0.0395019837
+                  },
+                  {
+                    "time": 0.7447243,
+                    "value": 0.377077818,
+                    "inTangent": -0.222413734,
+                    "outTangent": -0.222413734
+                  },
+                  {
+                    "time": 0.906889737,
+                    "value": -0.09325203,
+                    "inTangent": -0.354983717,
+                    "outTangent": -0.354983717
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "Enable": true,
+            "Target": "WeaponPosition",
+            "Process": {
+              "ComponentType": "Y",
+              "CurveTimeMultiply": 1.17823243,
+              "CurveValueMultiply": 0.011,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": 25.3195,
+                    "outTangent": 25.3195
+                  },
+                  {
+                    "time": 0.198416948,
+                    "value": 3.24427414,
+                    "inTangent": 0.5521311,
+                    "outTangent": 0.5521311
+                  },
+                  {
+                    "time": 0.501013041,
+                    "value": -0.6301708,
+                    "inTangent": -0.261309981,
+                    "outTangent": -0.261309981
+                  },
+                  {
+                    "time": 0.6764127,
+                    "value": 0.05016756,
+                    "inTangent": 0.500541,
+                    "outTangent": 0.500541
+                  },
+                  {
+                    "time": 0.816525,
+                    "value": -0.0411519855,
+                    "inTangent": 0.09315185,
+                    "outTangent": 0.09315185
+                  },
+                  {
+                    "time": 0.935682356,
+                    "value": -0.0115147009,
+                    "inTangent": 0.22429204,
+                    "outTangent": 0.22429204
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "Enable": true,
+            "Target": "WeaponPosition",
+            "Process": {
+              "ComponentType": "Z",
+              "CurveTimeMultiply": 1.17823243,
+              "CurveValueMultiply": 0.01,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": -1.08743048,
+                    "outTangent": -1.08743048
+                  },
+                  {
+                    "time": 0.330175757,
+                    "value": -0.213008881,
+                    "inTangent": 0.12378341,
+                    "outTangent": 0.12378341
+                  },
+                  {
+                    "time": 0.5357284,
+                    "value": 0.00277293473,
+                    "inTangent": 0.0509902,
+                    "outTangent": 0.0509902
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "Enable": true,
+            "Target": "WeaponRotation",
+            "Process": {
+              "ComponentType": "X",
+              "CurveTimeMultiply": 1.17823243,
+              "CurveValueMultiply": 1,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": 7.30015659,
+                    "outTangent": 7.30015659
+                  },
+                  {
+                    "time": 0.18258813,
+                    "value": 1.23869872,
+                    "inTangent": 3.417365,
+                    "outTangent": 3.417365
+                  },
+                  {
+                    "time": 0.6393382,
+                    "value": -0.226083755,
+                    "inTangent": -0.222413734,
+                    "outTangent": -0.222413734
+                  },
+                  {
+                    "time": 0.877593756,
+                    "value": -0.00434474461,
+                    "inTangent": -0.3374718,
+                    "outTangent": -0.3374718
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "Enable": true,
+            "Target": "WeaponRotation",
+            "Process": {
+              "ComponentType": "Z",
+              "CurveTimeMultiply": 1.17823243,
+              "CurveValueMultiply": 1,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": -4.344388,
+                    "outTangent": -4.344388
+                  },
+                  {
+                    "time": 0.0627269745,
+                    "value": -0.339411139,
+                    "inTangent": -1.16040576,
+                    "outTangent": -1.16040576
+                  },
+                  {
+                    "time": 0.3088289,
+                    "value": 0.139128178,
+                    "inTangent": 0.191278428,
+                    "outTangent": 0.191278428
+                  },
+                  {
+                    "time": 0.5525503,
+                    "value": -0.000325818546,
+                    "inTangent": 0.00158316514,
+                    "outTangent": 0.00158316514
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          }
+        ],
+        "ValuesOut": [
+          {
+            "Enable": true,
+            "Target": "CameraRotation",
+            "Process": {
+              "ComponentType": "Z",
+              "CurveTimeMultiply": 1.17823243,
+              "CurveValueMultiply": 0.3,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": -18.7930431,
+                    "outTangent": -18.7930431
+                  },
+                  {
+                    "time": 0.116964743,
+                    "value": -1.47346652,
+                    "inTangent": -5.90495825,
+                    "outTangent": -5.90495825
+                  },
+                  {
+                    "time": 0.167142823,
+                    "value": -1.54604053,
+                    "inTangent": 5.50519228,
+                    "outTangent": 5.50519228
+                  },
+                  {
+                    "time": 0.3429807,
+                    "value": 0.268122435,
+                    "inTangent": -0.0395019837,
+                    "outTangent": -0.0395019837
+                  },
+                  {
+                    "time": 0.413586169,
+                    "value": 0.09188393,
+                    "inTangent": -8.931445,
+                    "outTangent": -8.931445
+                  },
+                  {
+                    "time": 0.50758636,
+                    "value": -1.61013508,
+                    "inTangent": -2.87021327,
+                    "outTangent": -2.87021327
+                  },
+                  {
+                    "time": 0.6473008,
+                    "value": 0.806988955,
+                    "inTangent": -0.354983717,
+                    "outTangent": -0.354983717
+                  },
+                  {
+                    "time": 0.7775573,
+                    "value": -0.236557379,
+                    "inTangent": -0.261309981,
+                    "outTangent": -0.261309981
+                  },
+                  {
+                    "time": 0.8683454,
+                    "value": 0.0206022952,
+                    "inTangent": 0.5529895,
+                    "outTangent": 0.5529895
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "Enable": true,
+            "Target": "CameraRotation",
+            "Process": {
+              "ComponentType": "X",
+              "CurveTimeMultiply": 1.17823243,
+              "CurveValueMultiply": 0.15,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.4360631,
+                    "value": 0.0006660875,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.5629044,
+                    "value": -0.66513586,
+                    "inTangent": -0.0395019837,
+                    "outTangent": -0.0395019837
+                  },
+                  {
+                    "time": 0.714073837,
+                    "value": 0.3190143,
+                    "inTangent": -0.222413734,
+                    "outTangent": -0.222413734
+                  },
+                  {
+                    "time": 0.885762334,
+                    "value": -0.105784744,
+                    "inTangent": -0.261309981,
+                    "outTangent": -0.261309981
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "Enable": true,
+            "Target": "WeaponPosition",
+            "Process": {
+              "ComponentType": "Y",
+              "CurveTimeMultiply": 1.17823243,
+              "CurveValueMultiply": 0.01,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": -9.439532,
+                    "outTangent": -9.439532
+                  },
+                  {
+                    "time": 0.214214414,
+                    "value": -1.67991531,
+                    "inTangent": -2.02321362,
+                    "outTangent": -2.02321362
+                  },
+                  {
+                    "time": 0.344448447,
+                    "value": -1.6570071,
+                    "inTangent": 4.318378,
+                    "outTangent": 4.318378
+                  },
+                  {
+                    "time": 0.6538451,
+                    "value": 0.2345295,
+                    "inTangent": -0.261309981,
+                    "outTangent": -0.261309981
+                  },
+                  {
+                    "time": 0.7967909,
+                    "value": -0.120762825,
+                    "inTangent": -0.6895811,
+                    "outTangent": -0.6895811
+                  },
+                  {
+                    "time": 0.928200841,
+                    "value": -0.013923645,
+                    "inTangent": 0.5156615,
+                    "outTangent": 0.5156615
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "Enable": true,
+            "Target": "WeaponRotation",
+            "Process": {
+              "ComponentType": "Y",
+              "CurveTimeMultiply": 1.17823243,
+              "CurveValueMultiply": 1,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": -21.7407284,
+                    "outTangent": -21.7407284
+                  },
+                  {
+                    "time": 0.186774582,
+                    "value": -3.53443718,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.2310301,
+                    "value": -3.334628,
+                    "inTangent": 8.68294,
+                    "outTangent": 8.68294
+                  },
+                  {
+                    "time": 0.5509067,
+                    "value": 0.3343497,
+                    "inTangent": -2.38659978,
+                    "outTangent": -2.38659978
+                  },
+                  {
+                    "time": 0.7119102,
+                    "value": -1.11963534,
+                    "inTangent": 1.94814026,
+                    "outTangent": 1.94814026
+                  },
+                  {
+                    "time": 0.881506562,
+                    "value": 0.052790463,
+                    "inTangent": -0.6128891,
+                    "outTangent": -0.6128891
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "Enable": true,
+            "Target": "WeaponRotation",
+            "Process": {
+              "ComponentType": "Z",
+              "CurveTimeMultiply": 1.17823243,
+              "CurveValueMultiply": 1,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": 4.721872,
+                    "outTangent": 4.721872
+                  },
+                  {
+                    "time": 0.08559321,
+                    "value": 0.333684683,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.3679056,
+                    "value": -0.7106528,
+                    "inTangent": -1.2165612,
+                    "outTangent": -1.2165612
+                  },
+                  {
+                    "time": 0.6247326,
+                    "value": 0.178637117,
+                    "inTangent": -0.0238202233,
+                    "outTangent": -0.0238202233
+                  },
+                  {
+                    "time": 0.823680341,
+                    "value": -0.00430297852,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "Enable": true,
+            "Target": "WeaponPosition",
+            "Process": {
+              "ComponentType": "Z",
+              "CurveTimeMultiply": 1.17823243,
+              "CurveValueMultiply": 0.015,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": 1.13771391,
+                    "outTangent": 1.13771391
+                  },
+                  {
+                    "time": 0.20978421,
+                    "value": 0.271861553,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.490527034,
+                    "value": 0.041839838,
+                    "inTangent": 0.119764924,
+                    "outTangent": 0.119764924
+                  },
+                  {
+                    "time": 0.6908996,
+                    "value": -0.06786552,
+                    "inTangent": 0.06352,
+                    "outTangent": 0.06352
+                  },
+                  {
+                    "time": 0.82947886,
+                    "value": -0.0005220771,
+                    "inTangent": 0.321234524,
+                    "outTangent": 0.321234524
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "Enable": true,
+            "Target": "WeaponRotation",
+            "Process": {
+              "ComponentType": "X",
+              "CurveTimeMultiply": 1.17823243,
+              "CurveValueMultiply": 1,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": 17.6098289,
+                    "outTangent": 17.6098289
+                  },
+                  {
+                    "time": 0.202383757,
+                    "value": 2.511526,
+                    "inTangent": -0.5673547,
+                    "outTangent": -0.5673547
+                  },
+                  {
+                    "time": 0.5174671,
+                    "value": -0.713952,
+                    "inTangent": -0.06051877,
+                    "outTangent": -0.06051877
+                  },
+                  {
+                    "time": 0.756105065,
+                    "value": 0.02378992,
+                    "inTangent": 0.115677781,
+                    "outTangent": 0.115677781
+                  },
+                  {
+                    "time": 0.858603358,
+                    "value": -0.009373974,
+                    "inTangent": -0.159323856,
+                    "outTangent": -0.159323856
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "Enable": true,
+            "Target": "WeaponRotation",
+            "Process": {
+              "ComponentType": "Z",
+              "CurveTimeMultiply": 1.17823243,
+              "CurveValueMultiply": 1,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": -7.45191574,
+                    "outTangent": -7.45191574
+                  },
+                  {
+                    "time": 0.143383846,
+                    "value": -0.825372338,
+                    "inTangent": 1.25743544,
+                    "outTangent": 1.25743544
+                  },
+                  {
+                    "time": 0.441661835,
+                    "value": 0.314436436,
+                    "inTangent": -0.06051877,
+                    "outTangent": -0.06051877
+                  },
+                  {
+                    "time": 0.685060143,
+                    "value": -0.0153336152,
+                    "inTangent": 0.115677781,
+                    "outTangent": 0.115677781
+                  },
+                  {
+                    "time": 0.858603358,
+                    "value": -0.009373974,
+                    "inTangent": -0.159323856,
+                    "outTangent": -0.159323856
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "WeaponRecoilSettings": {
+        "Enable": true,
+        "Values": [
+          {
+            "Enable": true,
+            "Target": "HandsRotation",
+            "Process": {
+              "ComponentType": "Y",
+              "CurveTimeMultiply": 1.4,
+              "CurveValueMultiply": 0.6,
+              "CurveAimingValueMultiply": 0.4,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.1,
+                    "value": 2,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.3,
+                    "value": -0.75,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "Enable": true,
+            "Target": "HandsPosition",
+            "Process": {
+              "ComponentType": "Y",
+              "CurveTimeMultiply": 6,
+              "CurveValueMultiply": 0.003,
+              "CurveAimingValueMultiply": 0.002,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.1,
+                    "value": 2,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.3,
+                    "value": -0.75,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          },
+          {
+            "Enable": true,
+            "Target": "CameraRotation",
+            "Process": {
+              "ComponentType": "Z",
+              "CurveTimeMultiply": 0.75,
+              "CurveValueMultiply": 0.1,
+              "CurveAimingValueMultiply": 0.06,
+              "TransformationCurve": {
+                "Keys": [
+                  {
+                    "time": 0,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.1,
+                    "value": 2,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 0.3,
+                    "value": -0.75,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  },
+                  {
+                    "time": 1,
+                    "value": 0,
+                    "inTangent": 0,
+                    "outTangent": 0
+                  }
+                ]
+              }
+            }
+          }
+        ]
+      },
+      "WithAnimatorAiming": false,
+      "ammoCaliber": "Caliber57x28",
+      "bEffDist": 200,
+      "bFirerate": 910,
+      "bHearDist": 80,
+      "blockLeftStance": false,
+      "chamberAmmoCount": 1,
+      "defAmmo": "5cc80f8fe4a949033b0224a2",
+      "defMagType": "5cc70093e4a949033c734312",
+      "durabSpawnMax": 75,
+      "durabSpawnMin": 25,
+      "isBoltCatch": false,
+      "isChamberLoad": true,
+      "isFastReload": true,
+      "shotgunDispersion": 0,
+      "weapClass": "smg",
+      "weapFireType": [
+        "single",
+        "fullauto"
+      ],
+      "weapUseType": "primary"
+    },
+    "locales": {
+      "en": {
+        "name": "FN P90 5.7x28 submachine gun (Scourge)",
+        "shortName": "P90 Scourge",
+        "description": "FN P90, also known as the FN Project 1990, is a compact personal defense weapon (PDW) designed and manufactured by FN Herstal in Belgium. Created in response to NATO requests for a replacement for 9x19mm Parabellum firearms, the P90 was designed as a compact but powerful firearm for vehicle crews, operators of crew-served weapons, support personnel, special forces, and counter-terrorist groups. This particular weapon was customized and tuned to the specifications of Liam \"Scourge\", one of the Arena Champions, during his time with USEC."
+      }
+    },
+    "addtoInventorySlots": [],
+    "addtoModSlots": false,
+    "modSlot": [],
+    "handbookPriceRoubles": 26050,
+    "addtoBots": false,
+    "addtoStaticLootContainers": false,
+    "staticLootContainers": [],
+    "addtoHallOfFame": false,
+    "hallOfFameSlots": [],
+    "addtoSpecialSlots": false,
+    "addtoHideoutPosterSlots": false,
+    "addPosterToMaps": false,
+    "posterSpawnProbability": 0,
+    "addtoStatuetteSlots": false,
+    "addCaliberToAllCloneLocations": false,
+    "addtoStaticAmmo": false,
+    "staticAmmoProbability": 0,
+    "addtoSecureFilters": false,
+    "masteries": true,
+    "masterySections": [
+      {
+        "Level2": 200,
+        "Level3": 350,
+        "Name": "P90",
+        "Templates": [
+          "6a78b7f8c2016eb33e0027cd"
+        ]
+      }
+    ],
+    "addWeaponPreset": true,
+    "weaponPresets": [
+      {
+        "_id": "6a799f200b38edb61b0aca7b",
+        "_type": "Preset",
+        "_changeWeaponName": false,
+        "_name": "P90 Scourge BattlePass Standard",
+        "_parent": "6a980fa2598d8a98750303fc",
+        "_items": [
+          {
+            "_id": "6a980fa2598d8a98750303fc",
+            "_tpl": "6a78b7f8c2016eb33e0027cd",
+            "upd": {
+              "Repairable": {
+                "Durability": 100,
+                "MaxDurability": 100
+              }
+            }
+          },
+          {
+            "_id": "6a980fa2598d8a98750303fd",
+            "_tpl": "6a6877f566f77e6757083db5",
+            "parentId": "6a980fa2598d8a98750303fc",
+            "slotId": "mod_stock"
+          },
+          {
+            "_id": "6a980fa2598d8a98750303fe",
+            "_tpl": "6a69d239d038171e800696b0",
+            "parentId": "6a980fa2598d8a98750303fd",
+            "slotId": "mod_stock_000"
+          },
+          {
+            "_id": "6a980fa2598d8a98750303ff",
+            "_tpl": "6a688026daa5d47171082d6b",
+            "parentId": "6a980fa2598d8a98750303fd",
+            "slotId": "mod_foregrip"
+          },
+          {
+            "_id": "6a980fa2598d8a9875030400",
+            "_tpl": "5cc70102e4a949035e43ba74",
+            "parentId": "6a980fa2598d8a98750303fc",
+            "slotId": "mod_reciever"
+          },
+          {
+            "_id": "6a980fa2598d8a9875030401",
+            "_tpl": "5cebec38d7f00c00110a652a",
+            "parentId": "6a980fa2598d8a9875030400",
+            "slotId": "mod_mount_000"
+          },
+          {
+            "_id": "6a980fa2598d8a9875030402",
+            "_tpl": "5cc701aae4a949000e1ea45c",
+            "parentId": "6a980fa2598d8a98750303fc",
+            "slotId": "mod_barrel"
+          },
+          {
+            "_id": "6a980fa2598d8a9875030403",
+            "_tpl": "6a68a56b0c3b4e47d502bede",
+            "parentId": "6a980fa2598d8a9875030402",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "6a980fa2598d8a9875030404",
+            "_tpl": "6a6880680934ae00be0d5f9a",
+            "parentId": "6a980fa2598d8a9875030403",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "6a980fa2598d8a9875030405",
+            "_tpl": "6a6895ac4672de9ba1014bcc",
+            "parentId": "6a980fa2598d8a9875030404",
+            "slotId": "mod_muzzle"
+          },
+          {
+            "_id": "6a980fa2598d8a9875030406",
+            "_tpl": "5cc6ea78e4a949000e1ea3c1",
+            "parentId": "6a980fa2598d8a98750303fc",
+            "slotId": "mod_charge"
+          },
+          {
+            "_id": "6a980fa2598d8a9875030407",
+            "_tpl": "5cc70093e4a949033c734312",
+            "parentId": "6a980fa2598d8a98750303fc",
+            "slotId": "mod_magazine"
+          }
+        ],
+        "_encyclopedia": "6a78b7f8c2016eb33e0027cd"
+      }
+    ],
+    "addtoTraders": false,
+    "traders": {},
+    "registerInFleaPrices": false,
+    "addtoItemBlacklist": true
+  }
+}

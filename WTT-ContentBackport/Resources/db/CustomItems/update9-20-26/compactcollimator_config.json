@@ -1,0 +1,158 @@
+{
+    "6a675e25dfb2de5e320d454e": {
+        "itemTplToClone": "5a32aa8bc4a2826c6e06d737",
+        "parentId": "55818acf4bdc2dde698b456b",
+        "handbookParentId": "5b5f744786f774094242f197",
+        "overrideProperties": {
+            "Grids": [],
+            "Slots": [],
+            "AnimationVariantsNumber": 0,
+            "BackgroundColor": "blue",
+            "CanRequireOnRagfair": false,
+            "CanSellOnRagfair": false,
+            "ConflictingItems": [],
+            "Description": "scope_base_strike_industries_seeker",
+            "DiscardLimit": -1,
+            "DiscardingBlock": false,
+            "ExamineExperience": 2,
+            "ExamineTime": 1,
+            "ExaminedByDefault": true,
+            "ExtraSizeDown": 0,
+            "ExtraSizeForceAdd": false,
+            "ExtraSizeLeft": 0,
+            "ExtraSizeRight": 0,
+            "ExtraSizeUp": 0,
+            "Height": 1,
+            "HideEntrails": false,
+            "InsuranceDisabled": false,
+            "IsAlwaysAvailableForInsurance": false,
+            "IsLockedafterEquip": false,
+            "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+            "IsSecretExitRequirement": false,
+            "IsSpecialSlotOnly": false,
+            "IsUnbuyable": false,
+            "IsUndiscardable": false,
+            "IsUngivable": false,
+            "IsUnremovable": false,
+            "IsUnsaleable": false,
+            "ItemSound": "mod",
+            "LeftHandItem": false,
+            "LootExperience": 10,
+            "MergesWithChildren": true,
+            "Name": "scope_base_strike_industries_seeker",
+            "NotShownInSlot": false,
+            "Prefab": {
+                "path": "assets/content/items/mods/scopes/scope_base_strike_industries_seeker.bundle",
+                "rcid": ""
+            },
+            "QuestItem": false,
+            "QuestStashMaxCount": 0,
+            "RagFairCommissionModifier": 1,
+            "RagfairLevelToTrade": 0,
+            "RarityPvE": "Not_exist",
+            "RepairCost": 0,
+            "RepairSpeed": 0,
+            "ShortName": "scope_base_strike_industries_seeker",
+            "StackMaxSize": 1,
+            "StackObjectsCount": 1,
+            "Unlootable": false,
+            "UnlootableFromSide": [],
+            "UnlootableFromSlot": "FirstPrimaryWeapon",
+            "UsePrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "Weight": 0.04,
+            "Width": 1,
+            "CanPutIntoDuringTheRaid": true,
+            "CantRemoveFromSlotsDuringRaid": [],
+            "ForbidMissingVitalParts": false,
+            "ForbidNonEmptyContainers": false,
+            "Accuracy": 0,
+            "BlocksCollapsible": false,
+            "BlocksFolding": false,
+            "CategoryAnimationModId": 0,
+            "DoubleActionAccuracyPenaltyMult": 1,
+            "Durability": 100,
+            "EffectiveDistance": 0,
+            "Ergonomics": 0,
+            "HasShoulderContact": false,
+            "IsAnimated": false,
+            "Loudness": 0,
+            "MetascoreGroup": "Firepower",
+            "RaidModdable": true,
+            "Recoil": 0,
+            "SightingRange": 150,
+            "ToolModdable": true,
+            "UniqueAnimationModID": 0,
+            "Velocity": 0,
+            "AdjustableOpticSensitivity": 0,
+            "AdjustableOpticSensitivityMax": 0,
+            "AimSensitivity": [
+                [
+                    0.65
+                ]
+            ],
+            "CalibrationDistances": [
+                [
+                    25,
+                    50,
+                    100
+                ]
+            ],
+            "CustomAimPlane": "",
+            "IsAdjustableOptic": false,
+            "MinMaxFov": {
+                "x": 0,
+                "y": 0,
+                "z": 0
+            },
+            "ModesCount": [
+                1
+            ],
+            "ScopesCount": 1,
+            "ZoomSensitivity": 0,
+            "Zooms": [
+                [
+                    1
+                ]
+            ],
+            "sightModType": "reflex"
+        },
+        "locales": {
+            "en": {
+                "name": "Strike Industries Hexion Tech Seeker reflex sight",
+                "shortName": "Seeker",
+                "description": "A compact reflex sight that can be used as either a primary or backup optic. Requires a compatible mount for installation on Weaver rails. Manufactured by Strike Industries."
+            }
+        },
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_scope"
+        ],
+        "handbookPriceRoubles": 13125,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "staticLootContainers": [],
+        "addtoHallOfFame": false,
+        "hallOfFameSlots": [],
+        "addtoSpecialSlots": false,
+        "addtoHideoutPosterSlots": false,
+        "addPosterToMaps": false,
+        "posterSpawnProbability": 0,
+        "addtoStatuetteSlots": false,
+        "addCaliberToAllCloneLocations": false,
+        "addtoStaticAmmo": false,
+        "staticAmmoProbability": 0,
+        "addtoSecureFilters": false,
+        "masteries": false,
+        "masterySections": [],
+        "addWeaponPreset": false,
+        "weaponPresets": [],
+        "addtoTraders": false,
+        "traders": {},
+        "registerInFleaPrices": false,
+        "addtoItemBlacklist": true
+    }
+}

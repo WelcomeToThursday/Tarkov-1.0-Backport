@@ -1,0 +1,1962 @@
+{
+    "6a687e38e1ad1bac01015418": {
+        "itemTplToClone": "558032614bdc2de7118b4585",
+        "parentId": "55818a104bdc2db9688b4569",
+        "handbookParentId": "5b5f75e486f77447ec5d7712",
+        "overrideProperties": {
+            "Grids": [],
+            "Slots": [
+                {
+                    "_name": "mod_mount_000",
+                    "_id": "6a687e38e1ad1bac0101541a",
+                    "_parent": "6a687e38e1ad1bac01015418",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b7be47f5acfc400170e2dd2",
+                                    "6269220d70b6c02e665f2635",
+                                    "6269545d0e57f218e4548ca2",
+                                    "669a6a4a525be1d2d004b8eb"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_001",
+                    "_id": "6a687e38e1ad1bac0101541b",
+                    "_parent": "6a687e38e1ad1bac01015418",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b7be47f5acfc400170e2dd2",
+                                    "6269220d70b6c02e665f2635",
+                                    "6269545d0e57f218e4548ca2",
+                                    "669a6a4a525be1d2d004b8eb"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_tactical_000",
+                    "_id": "6a687e38e1ad1bac0101541d",
+                    "_parent": "6a687e38e1ad1bac01015418",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "57fd23e32459772d0805bcf1",
+                                    "544909bb4bdc2d6f028b4577",
+                                    "5c06595c0db834001a66af6c",
+                                    "5a7b483fe899ef0016170d15",
+                                    "61605d88ffa6e502ac5e7eeb",
+                                    "5c5952732e2216398b5abda2",
+                                    "644a3df63b0b6f03e101e065",
+                                    "5649a2464bdc2d91118b45a8",
+                                    "68bedc0365e7dcf94f0cb0fc",
+                                    "6a186ccfbe0d66d438005e4e"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_tactical_001",
+                    "_id": "6a687f7e4230b63db57c3763",
+                    "_parent": "6a687e38e1ad1bac01015418",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "57fd23e32459772d0805bcf1",
+                                    "544909bb4bdc2d6f028b4577",
+                                    "5c06595c0db834001a66af6c",
+                                    "5a7b483fe899ef0016170d15",
+                                    "61605d88ffa6e502ac5e7eeb",
+                                    "5c5952732e2216398b5abda2",
+                                    "644a3df63b0b6f03e101e065",
+                                    "68bedc0365e7dcf94f0cb0fc",
+                                    "6a186ccfbe0d66d438005e4e"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_foregrip",
+                    "_id": "6a687feedcdf410da9829dde",
+                    "_parent": "6a687e38e1ad1bac01015418",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5c7fc87d2e221644f31c0298",
+                                    "5cda9bcfd7f00c0c0b53e900",
+                                    "59f8a37386f7747af3328f06",
+                                    "619386379fb0c665d5490dbe",
+                                    "5c87ca002e221600114cb150",
+                                    "588226d124597767ad33f787",
+                                    "588226dd24597767ad33f789",
+                                    "588226e62459776e3e094af7",
+                                    "588226ef24597767af46e39c",
+                                    "59fc48e086f77463b1118392",
+                                    "5fce0cf655375d18a253eff0",
+                                    "5cf4fb76d7f00c065703d3ac",
+                                    "5b057b4f5acfc4771e1bd3e9",
+                                    "5c791e872e2216001219c40a",
+                                    "558032614bdc2de7118b4585",
+                                    "58c157be86f77403c74b2bb6",
+                                    "58c157c886f774032749fb06",
+                                    "5f6340d3ca442212f4047eb2",
+                                    "591af28e86f77414a27a9e1d",
+                                    "5c1cd46f2e22164bef5cfedb",
+                                    "5c1bc4812e22164bef5cfde7",
+                                    "5c1bc5612e221602b5429350",
+                                    "5c1bc5af2e221602b412949b",
+                                    "5c1bc5fb2e221602b1779b32",
+                                    "5c1bc7432e221602b412949d",
+                                    "5c1bc7752e221602b1779b34",
+                                    "64807a29e5ffe165600abc97",
+                                    "64806bdd26c80811d408d37a",
+                                    "648067db042be0705c0b3009",
+                                    "65169d5b30425317755f8e25",
+                                    "655df24fdf80b12750626d0a",
+                                    "655dccfdbdcc6b5df71382b6",
+                                    "661e52e29c8b4dadef008577",
+                                    "661e53149c8b4dadef008579",
+                                    "661e52415be02310ed07a07a",
+                                    "661e52b5b099f32c28003586",
+                                    "6984b690b457c5047e0c01fa",
+                                    "6984b74a5aab442620032fe6",
+                                    "6a16f3711c209e26040a5410",
+                                    "6a16f3811c209e26040a5413",
+                                    "6a675e0706a5419b2508f26c"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ],
+            "AnimationVariantsNumber": 0,
+            "BackgroundColor": "blue",
+            "CanRequireOnRagfair": false,
+            "CanSellOnRagfair": false,
+            "ConflictingItems": [
+                "5cc701aae4a949000e1ea45c",
+                "5cc7012ae4a949001252b43e"
+            ],
+            "Description": "handguard_p90_strike_industries_smc_90_long",
+            "DiscardLimit": -1,
+            "DiscardingBlock": false,
+            "ExamineExperience": 3,
+            "ExamineTime": 1,
+            "ExaminedByDefault": true,
+            "ExtraSizeDown": 0,
+            "ExtraSizeForceAdd": false,
+            "ExtraSizeLeft": 0,
+            "ExtraSizeRight": 0,
+            "ExtraSizeUp": 0,
+            "Height": 1,
+            "HideEntrails": false,
+            "InsuranceDisabled": false,
+            "IsAlwaysAvailableForInsurance": false,
+            "IsLockedafterEquip": false,
+            "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+            "IsSecretExitRequirement": false,
+            "IsSpecialSlotOnly": false,
+            "IsUnbuyable": false,
+            "IsUndiscardable": false,
+            "IsUngivable": false,
+            "IsUnremovable": false,
+            "IsUnsaleable": false,
+            "ItemSound": "mod",
+            "LeftHandItem": false,
+            "LootExperience": 15,
+            "MergesWithChildren": true,
+            "Name": "handguard_p90_strike_industries_smc_90_long",
+            "NotShownInSlot": false,
+            "Prefab": {
+                "path": "assets/content/items/mods/handguards/handguard_p90_strike_industries_smc_90_long.bundle",
+                "rcid": ""
+            },
+            "QuestItem": false,
+            "QuestStashMaxCount": 0,
+            "RagFairCommissionModifier": 1,
+            "RagfairLevelToTrade": 0,
+            "RarityPvE": "Not_exist",
+            "RepairCost": 0,
+            "RepairSpeed": 0,
+            "ShortName": "handguard_p90_strike_industries_smc_90_long",
+            "StackMaxSize": 1,
+            "StackObjectsCount": 1,
+            "Unlootable": false,
+            "UnlootableFromSide": [],
+            "UnlootableFromSlot": "FirstPrimaryWeapon",
+            "UsePrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "Weight": 0.338,
+            "Width": 2,
+            "CanPutIntoDuringTheRaid": true,
+            "CantRemoveFromSlotsDuringRaid": [],
+            "ForbidMissingVitalParts": false,
+            "ForbidNonEmptyContainers": false,
+            "Accuracy": 0,
+            "BlocksCollapsible": false,
+            "BlocksFolding": false,
+            "CategoryAnimationModId": 0,
+            "DoubleActionAccuracyPenaltyMult": 1,
+            "Durability": 100,
+            "EffectiveDistance": 0,
+            "Ergonomics": 17,
+            "HasShoulderContact": false,
+            "IsAnimated": false,
+            "Loudness": 0,
+            "MetascoreGroup": "Firepower",
+            "RaidModdable": false,
+            "Recoil": 0,
+            "SightingRange": 0,
+            "ToolModdable": true,
+            "UniqueAnimationModID": 0,
+            "Velocity": 0,
+            "CoolFactor": 0.995,
+            "HeatFactor": 1.015
+        },
+        "locales": {
+            "en": {
+                "name": "FN P90 Strike Industries SMC-90 Long M-LOK handguard",
+                "shortName": "SMC90 long",
+                "description": "The Strike Industries Long handguard for SMC-90 chassis equipped with an M-LOK interface for installation of additional devices and accessories."
+            }
+        },
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_foregrip"
+        ],
+        "handbookPriceRoubles": 12500,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "staticLootContainers": [],
+        "addtoHallOfFame": false,
+        "hallOfFameSlots": [],
+        "addtoSpecialSlots": false,
+        "addtoHideoutPosterSlots": false,
+        "addPosterToMaps": false,
+        "posterSpawnProbability": 0,
+        "addtoStatuetteSlots": false,
+        "addCaliberToAllCloneLocations": false,
+        "addtoStaticAmmo": false,
+        "staticAmmoProbability": 0,
+        "addtoSecureFilters": false,
+        "masteries": false,
+        "masterySections": [],
+        "addWeaponPreset": false,
+        "weaponPresets": [],
+        "addtoTraders": false,
+        "traders": {},
+        "registerInFleaPrices": false,
+        "addtoItemBlacklist": true
+    },
+    "6a688026daa5d47171082d6b": {
+        "itemTplToClone": "558032614bdc2de7118b4585",
+        "parentId": "55818a104bdc2db9688b4569",
+        "handbookParentId": "5b5f75e486f77447ec5d7712",
+        "overrideProperties": {
+            "Grids": [],
+            "Slots": [
+                {
+                    "_name": "mod_mount_000",
+                    "_id": "6a688026daa5d47171082d6c",
+                    "_parent": "6a688026daa5d47171082d6b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6269220d70b6c02e665f2635",
+                                    "6269545d0e57f218e4548ca2",
+                                    "669a6a4a525be1d2d004b8eb"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_001",
+                    "_id": "6a688026daa5d47171082d6d",
+                    "_parent": "6a688026daa5d47171082d6b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6269220d70b6c02e665f2635",
+                                    "6269545d0e57f218e4548ca2",
+                                    "669a6a4a525be1d2d004b8eb"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_tactical",
+                    "_id": "6a688026daa5d47171082d6e",
+                    "_parent": "6a688026daa5d47171082d6b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "644a3df63b0b6f03e101e065",
+                                    "5649a2464bdc2d91118b45a8"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_foregrip",
+                    "_id": "6a688026daa5d47171082d70",
+                    "_parent": "6a688026daa5d47171082d6b",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5c7fc87d2e221644f31c0298",
+                                    "5cda9bcfd7f00c0c0b53e900",
+                                    "59f8a37386f7747af3328f06",
+                                    "619386379fb0c665d5490dbe",
+                                    "5c87ca002e221600114cb150",
+                                    "588226d124597767ad33f787",
+                                    "588226dd24597767ad33f789",
+                                    "588226e62459776e3e094af7",
+                                    "588226ef24597767af46e39c",
+                                    "59fc48e086f77463b1118392",
+                                    "5fce0cf655375d18a253eff0",
+                                    "5cf4fb76d7f00c065703d3ac",
+                                    "5b057b4f5acfc4771e1bd3e9",
+                                    "5c791e872e2216001219c40a",
+                                    "558032614bdc2de7118b4585",
+                                    "58c157be86f77403c74b2bb6",
+                                    "58c157c886f774032749fb06",
+                                    "5f6340d3ca442212f4047eb2",
+                                    "591af28e86f77414a27a9e1d",
+                                    "5c1cd46f2e22164bef5cfedb",
+                                    "5c1bc4812e22164bef5cfde7",
+                                    "5c1bc5612e221602b5429350",
+                                    "5c1bc5af2e221602b412949b",
+                                    "5c1bc5fb2e221602b1779b32",
+                                    "5c1bc7432e221602b412949d",
+                                    "5c1bc7752e221602b1779b34",
+                                    "64807a29e5ffe165600abc97",
+                                    "64806bdd26c80811d408d37a",
+                                    "648067db042be0705c0b3009",
+                                    "65169d5b30425317755f8e25",
+                                    "655df24fdf80b12750626d0a",
+                                    "655dccfdbdcc6b5df71382b6",
+                                    "661e52e29c8b4dadef008577",
+                                    "661e53149c8b4dadef008579",
+                                    "661e52415be02310ed07a07a",
+                                    "661e52b5b099f32c28003586",
+                                    "6984b690b457c5047e0c01fa",
+                                    "6984b74a5aab442620032fe6",
+                                    "6a16f3711c209e26040a5410",
+                                    "6a16f3811c209e26040a5413",
+                                    "6a675e0706a5419b2508f26c"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ],
+            "AnimationVariantsNumber": 0,
+            "BackgroundColor": "blue",
+            "CanRequireOnRagfair": false,
+            "CanSellOnRagfair": false,
+            "ConflictingItems": [
+                "5c7e5f112e221600106f4ede",
+                "5c0fafb6d174af02a96260ba",
+                "6405ff6bd4578826ec3e377a",
+                "63ac5c9658d0485fc039f0b8",
+                "68caac500bfe742288085e1e",
+                "612e0cfc8004cc50514c2d9e",
+                "5cf6937cd7f00c056c53fb39",
+                "68a63b03e1fb670852024656",
+                "544a38634bdc2d58388b4568",
+                "5cff9e5ed7ad1a09407397d4",
+                "664301213dd83ddae20dda18",
+                "5c48a2a42e221602b66d1e07",
+                "5f6372e2865db925d54f3869",
+                "618407a850224f204c1da549",
+                "6386120cd6baa055ad1e201c",
+                "615d8e2f1cb55961fa0fd9a4",
+                "6a3cea96194a2625b40c863d",
+                "56ea8180d2720bf2698b456a",
+                "626667e87379c44d557b7550",
+                "68c294b9eb59c46bf6070536",
+                "5d02676dd7ad1a049e54f6dc",
+                "5c78f2882e22165df16b832e",
+                "609269c3b0e443224b421cc1",
+                "5c7fb51d2e2216001219ce11",
+                "5ea172e498dacb342978818e",
+                "5c6d710d2e22165df16b81e7",
+                "612e0e55a112697a4b3a66e7",
+                "5d440625a4b9361eec4ae6c5",
+                "5a7c147ce899ef00150bd8b8",
+                "64943b74e9998d641b0412ed",
+                "626a74340be03179a165e30c",
+                "5cc7012ae4a949001252b43e"
+            ],
+            "Description": "handguard_ar15_cgnl_ar15_105_inch",
+            "DiscardLimit": -1,
+            "DiscardingBlock": false,
+            "ExamineExperience": 3,
+            "ExamineTime": 1,
+            "ExaminedByDefault": true,
+            "ExtraSizeDown": 0,
+            "ExtraSizeForceAdd": false,
+            "ExtraSizeLeft": 0,
+            "ExtraSizeRight": 0,
+            "ExtraSizeUp": 0,
+            "Height": 1,
+            "HideEntrails": false,
+            "InsuranceDisabled": false,
+            "IsAlwaysAvailableForInsurance": false,
+            "IsLockedafterEquip": false,
+            "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+            "IsSecretExitRequirement": false,
+            "IsSpecialSlotOnly": false,
+            "IsUnbuyable": false,
+            "IsUndiscardable": false,
+            "IsUngivable": false,
+            "IsUnremovable": false,
+            "IsUnsaleable": false,
+            "ItemSound": "mod",
+            "LeftHandItem": false,
+            "LootExperience": 15,
+            "MergesWithChildren": true,
+            "Name": "handguard_ar15_cgnl_ar15_105_inch",
+            "NotShownInSlot": false,
+            "Prefab": {
+                "path": "assets/content/items/mods/handguards/handguard_p90_strike_industries_smc_90_short.bundle",
+                "rcid": ""
+            },
+            "QuestItem": false,
+            "QuestStashMaxCount": 0,
+            "RagFairCommissionModifier": 1,
+            "RagfairLevelToTrade": 0,
+            "RarityPvE": "Not_exist",
+            "RepairCost": 0,
+            "RepairSpeed": 0,
+            "ShortName": "handguard_ar15_cgnl_ar15_105_inch",
+            "StackMaxSize": 1,
+            "StackObjectsCount": 1,
+            "Unlootable": false,
+            "UnlootableFromSide": [],
+            "UnlootableFromSlot": "FirstPrimaryWeapon",
+            "UsePrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "Weight": 0.204,
+            "Width": 1,
+            "CanPutIntoDuringTheRaid": true,
+            "CantRemoveFromSlotsDuringRaid": [],
+            "ForbidMissingVitalParts": false,
+            "ForbidNonEmptyContainers": false,
+            "Accuracy": 0,
+            "BlocksCollapsible": false,
+            "BlocksFolding": false,
+            "CategoryAnimationModId": 0,
+            "DoubleActionAccuracyPenaltyMult": 1,
+            "Durability": 100,
+            "EffectiveDistance": 0,
+            "Ergonomics": 10,
+            "HasShoulderContact": false,
+            "IsAnimated": false,
+            "Loudness": 0,
+            "MetascoreGroup": "Firepower",
+            "RaidModdable": false,
+            "Recoil": 0,
+            "SightingRange": 0,
+            "ToolModdable": true,
+            "UniqueAnimationModID": 0,
+            "Velocity": 0,
+            "CoolFactor": 0.992,
+            "HeatFactor": 1.007
+        },
+        "locales": {
+            "en": {
+                "name": "FN P90 Strike Industries SMC-90 Short M-LOK handguard",
+                "shortName": "SMC90 short",
+                "description": "The Strike Industries Short handguard for SMC-90 chassis equipped with an M-LOK interface for installation of additional devices and accessories."
+            }
+        },
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_foregrip"
+        ],
+        "handbookPriceRoubles": 9250,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "staticLootContainers": [],
+        "addtoHallOfFame": false,
+        "hallOfFameSlots": [],
+        "addtoSpecialSlots": false,
+        "addtoHideoutPosterSlots": false,
+        "addPosterToMaps": false,
+        "posterSpawnProbability": 0,
+        "addtoStatuetteSlots": false,
+        "addCaliberToAllCloneLocations": false,
+        "addtoStaticAmmo": false,
+        "staticAmmoProbability": 0,
+        "addtoSecureFilters": false,
+        "masteries": false,
+        "masterySections": [],
+        "addWeaponPreset": false,
+        "weaponPresets": [],
+        "addtoTraders": false,
+        "traders": {},
+        "registerInFleaPrices": false,
+        "addtoItemBlacklist": true
+    },
+    "6a6759a5ca1e7d40a007a56f": {
+        "itemTplToClone": "55d459824bdc2d892f8b4573",
+        "parentId": "55818a104bdc2db9688b4569",
+        "handbookParentId": "5b5f75e486f77447ec5d7712",
+        "overrideProperties": {
+            "Grids": [],
+            "Slots": [
+                {
+                    "_name": "mod_tactical",
+                    "_id": "6a675a22f82dc2d1732755ba",
+                    "_parent": "6a6759a5ca1e7d40a007a56f",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "6a675d8f2ff856278106eb69",
+                                    "6a675d00358304130d098d4f",
+                                    "6a675d75fd8364ead7039dd8"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ],
+            "AnimationVariantsNumber": 0,
+            "BackgroundColor": "blue",
+            "CanRequireOnRagfair": false,
+            "CanSellOnRagfair": false,
+            "ConflictingItems": [
+                "5a34fbadc4a28200741e230a",
+                "5ae30e795acfc408fb139a0b",
+                "5d00ec68d7ad1a04a067e5be",
+                "56ea8d2fd2720b7c698b4570",
+                "55d35ee94bdc2d61338b4568"
+            ],
+            "Description": "handguard_ar15_unique_ars_hex_12_inch",
+            "DiscardLimit": -1,
+            "DiscardingBlock": false,
+            "ExamineExperience": 100,
+            "ExamineTime": 1,
+            "ExaminedByDefault": false,
+            "ExtraSizeDown": 0,
+            "ExtraSizeForceAdd": false,
+            "ExtraSizeLeft": 1,
+            "ExtraSizeRight": 0,
+            "ExtraSizeUp": 0,
+            "Height": 1,
+            "HideEntrails": false,
+            "InsuranceDisabled": false,
+            "IsAlwaysAvailableForInsurance": false,
+            "IsLockedafterEquip": false,
+            "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+            "IsSecretExitRequirement": false,
+            "IsSpecialSlotOnly": false,
+            "IsUnbuyable": false,
+            "IsUndiscardable": false,
+            "IsUngivable": false,
+            "IsUnremovable": false,
+            "IsUnsaleable": false,
+            "ItemSound": "mod",
+            "LeftHandItem": false,
+            "LootExperience": 10,
+            "MergesWithChildren": true,
+            "Name": "handguard_ar15_unique_ars_hex_12_inch",
+            "NotShownInSlot": false,
+            "Prefab": {
+                "path": "assets/content/items/mods/handguards/handguard_ar15_unique_ars_hex_12_inch.bundle",
+                "rcid": ""
+            },
+            "QuestItem": false,
+            "QuestStashMaxCount": 0,
+            "RagFairCommissionModifier": 1,
+            "RagfairLevelToTrade": 0,
+            "RarityPvE": "Not_exist",
+            "RepairCost": 0,
+            "RepairSpeed": 0,
+            "ShortName": "handguard_ar15_unique_ars_hex_12_inch",
+            "StackMaxSize": 1,
+            "StackObjectsCount": 1,
+            "Unlootable": false,
+            "UnlootableFromSide": [],
+            "UnlootableFromSlot": "FirstPrimaryWeapon",
+            "UsePrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "Weight": 0.245,
+            "Width": 2,
+            "CanPutIntoDuringTheRaid": true,
+            "CantRemoveFromSlotsDuringRaid": [],
+            "ForbidMissingVitalParts": false,
+            "ForbidNonEmptyContainers": false,
+            "Accuracy": 0,
+            "BlocksCollapsible": false,
+            "BlocksFolding": false,
+            "CategoryAnimationModId": 0,
+            "DoubleActionAccuracyPenaltyMult": 1,
+            "Durability": 100,
+            "EffectiveDistance": 0,
+            "Ergonomics": 17,
+            "HasShoulderContact": false,
+            "IsAnimated": false,
+            "Loudness": 0,
+            "MetascoreGroup": "Firepower",
+            "RaidModdable": false,
+            "Recoil": 0,
+            "SightingRange": 0,
+            "ToolModdable": false,
+            "UniqueAnimationModID": 0,
+            "Velocity": 0,
+            "CoolFactor": 1.088,
+            "HeatFactor": 0.945
+        },
+        "locales": {
+            "en": {
+                "name": "AR-15 Unique-ARs HEX 12 inch handguard",
+                "shortName": "HEX 12\"",
+                "description": "The HEX 12 inch handguard for AR-15 weapon systems. Manufactured by Unique-ARs."
+            }
+        },
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "handbookPriceRoubles": 8120,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "staticLootContainers": [],
+        "addtoHallOfFame": false,
+        "hallOfFameSlots": [],
+        "addtoSpecialSlots": false,
+        "addtoHideoutPosterSlots": false,
+        "addPosterToMaps": false,
+        "posterSpawnProbability": 0,
+        "addtoStatuetteSlots": false,
+        "addCaliberToAllCloneLocations": false,
+        "addtoStaticAmmo": false,
+        "staticAmmoProbability": 0,
+        "addtoSecureFilters": false,
+        "masteries": false,
+        "masterySections": [],
+        "addWeaponPreset": false,
+        "weaponPresets": [],
+        "addtoTraders": false,
+        "traders": {},
+        "registerInFleaPrices": false,
+        "addtoItemBlacklist": true
+    },
+    "6a6720479d7f57e84800faed": {
+        "itemTplToClone": "5648b4534bdc2d3d1c8b4580",
+        "parentId": "55818a104bdc2db9688b4569",
+        "handbookParentId": "5b5f75e486f77447ec5d7712",
+        "overrideProperties": {
+            "Grids": [],
+            "Slots": [
+                {
+                    "_name": "mod_foregrip",
+                    "_id": "6a6720479d7f57e84800faee",
+                    "_parent": "6a6720479d7f57e84800faed",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b800ebc86f774394e230a90",
+                                    "5b8403a086f7747ff856f4e2"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_001",
+                    "_id": "6a6720479d7f57e84800faef",
+                    "_parent": "6a6720479d7f57e84800faed",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b800ed086f7747baf6e2f9e",
+                                    "5b84038986f774774913b0c1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_000",
+                    "_id": "6a6720479d7f57e84800faf0",
+                    "_parent": "6a6720479d7f57e84800faed",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b800ed086f7747baf6e2f9e",
+                                    "5b84038986f774774913b0c1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ],
+            "AnimationVariantsNumber": 0,
+            "BackgroundColor": "blue",
+            "CanRequireOnRagfair": false,
+            "CanSellOnRagfair": false,
+            "ConflictingItems": [
+                "5ac66d015acfc400180ae6e4",
+                "5ac66d725acfc43b321d4b60",
+                "5ac66d9b5acfc4001633997a"
+            ],
+            "Description": "handguard_ak_hexagon_terka_1_gry",
+            "DiscardLimit": -1,
+            "DiscardingBlock": false,
+            "ExamineExperience": 3,
+            "ExamineTime": 1,
+            "ExaminedByDefault": true,
+            "ExtraSizeDown": 0,
+            "ExtraSizeForceAdd": false,
+            "ExtraSizeLeft": 0,
+            "ExtraSizeRight": 0,
+            "ExtraSizeUp": 0,
+            "Height": 1,
+            "HideEntrails": false,
+            "InsuranceDisabled": false,
+            "IsAlwaysAvailableForInsurance": false,
+            "IsLockedafterEquip": false,
+            "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+            "IsSecretExitRequirement": false,
+            "IsSpecialSlotOnly": false,
+            "IsUnbuyable": false,
+            "IsUndiscardable": false,
+            "IsUngivable": false,
+            "IsUnremovable": false,
+            "IsUnsaleable": false,
+            "ItemSound": "mod",
+            "LeftHandItem": false,
+            "LootExperience": 10,
+            "MergesWithChildren": true,
+            "Name": "handguard_ak_hexagon_terka_1_gry",
+            "NotShownInSlot": false,
+            "Prefab": {
+                "path": "assets/content/items/mods/handguards/handguard_ak_hexagon_terka_1_gry.bundle",
+                "rcid": ""
+            },
+            "QuestItem": false,
+            "QuestStashMaxCount": 0,
+            "RagFairCommissionModifier": 1,
+            "RagfairLevelToTrade": 0,
+            "RarityPvE": "Not_exist",
+            "RepairCost": 0,
+            "RepairSpeed": 0,
+            "ShortName": "handguard_ak_hexagon_terka_1_gry",
+            "StackMaxSize": 1,
+            "StackObjectsCount": 1,
+            "Unlootable": false,
+            "UnlootableFromSide": [],
+            "UnlootableFromSlot": "FirstPrimaryWeapon",
+            "UsePrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "Weight": 0.18,
+            "Width": 2,
+            "CanPutIntoDuringTheRaid": true,
+            "CantRemoveFromSlotsDuringRaid": [],
+            "ForbidMissingVitalParts": false,
+            "ForbidNonEmptyContainers": false,
+            "Accuracy": 0,
+            "BlocksCollapsible": false,
+            "BlocksFolding": false,
+            "CategoryAnimationModId": 0,
+            "DoubleActionAccuracyPenaltyMult": 1,
+            "Durability": 100,
+            "EffectiveDistance": 0,
+            "Ergonomics": 19,
+            "HasShoulderContact": false,
+            "IsAnimated": false,
+            "Loudness": 0,
+            "MetascoreGroup": "Firepower",
+            "RaidModdable": false,
+            "Recoil": 0,
+            "SightingRange": 0,
+            "ToolModdable": true,
+            "UniqueAnimationModID": 0,
+            "Velocity": 0,
+            "CoolFactor": 1.094,
+            "HeatFactor": 0.958
+        },
+        "locales": {
+            "en": {
+                "name": "AK Hexagon Cheese Grater mod.1 handguard (Anodized Grey)",
+                "shortName": "CG mod.1",
+                "description": "A handguard for AK family automatic rifles, manufactured by Hexagon. Anodized Grey version."
+            }
+        },
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "handbookPriceRoubles": 7890,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "staticLootContainers": [],
+        "addtoHallOfFame": false,
+        "hallOfFameSlots": [],
+        "addtoSpecialSlots": false,
+        "addtoHideoutPosterSlots": false,
+        "addPosterToMaps": false,
+        "posterSpawnProbability": 0,
+        "addtoStatuetteSlots": false,
+        "addCaliberToAllCloneLocations": false,
+        "addtoStaticAmmo": false,
+        "staticAmmoProbability": 0,
+        "addtoSecureFilters": false,
+        "masteries": false,
+        "masterySections": [],
+        "addWeaponPreset": false,
+        "weaponPresets": [],
+        "addtoTraders": false,
+        "traders": {},
+        "registerInFleaPrices": false,
+        "addtoItemBlacklist": true
+    },
+    "6a671d320578b5a41000c298": {
+        "itemTplToClone": "5648b4534bdc2d3d1c8b4580",
+        "parentId": "55818a104bdc2db9688b4569",
+        "handbookParentId": "5b5f75e486f77447ec5d7712",
+        "overrideProperties": {
+            "Grids": [],
+            "Slots": [
+                {
+                    "_name": "mod_foregrip",
+                    "_id": "6a671d320578b5a41000c299",
+                    "_parent": "6a671d320578b5a41000c298",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b800ebc86f774394e230a90",
+                                    "5b8403a086f7747ff856f4e2"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_001",
+                    "_id": "6a671d320578b5a41000c29a",
+                    "_parent": "6a671d320578b5a41000c298",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b800ed086f7747baf6e2f9e",
+                                    "5b84038986f774774913b0c1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_000",
+                    "_id": "6a671d320578b5a41000c29b",
+                    "_parent": "6a671d320578b5a41000c298",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b800ed086f7747baf6e2f9e",
+                                    "5b84038986f774774913b0c1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ],
+            "AnimationVariantsNumber": 0,
+            "BackgroundColor": "violet",
+            "CanRequireOnRagfair": false,
+            "CanSellOnRagfair": false,
+            "ConflictingItems": [
+                "5ac66d015acfc400180ae6e4",
+                "5ac66d725acfc43b321d4b60",
+                "5ac66d9b5acfc4001633997a"
+            ],
+            "Description": "handguard_ak_hexagon_terka_1_red",
+            "DiscardLimit": -1,
+            "DiscardingBlock": false,
+            "ExamineExperience": 3,
+            "ExamineTime": 1,
+            "ExaminedByDefault": true,
+            "ExtraSizeDown": 0,
+            "ExtraSizeForceAdd": false,
+            "ExtraSizeLeft": 0,
+            "ExtraSizeRight": 0,
+            "ExtraSizeUp": 0,
+            "Height": 1,
+            "HideEntrails": false,
+            "InsuranceDisabled": false,
+            "IsAlwaysAvailableForInsurance": false,
+            "IsLockedafterEquip": false,
+            "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+            "IsSecretExitRequirement": false,
+            "IsSpecialSlotOnly": false,
+            "IsUnbuyable": false,
+            "IsUndiscardable": false,
+            "IsUngivable": false,
+            "IsUnremovable": false,
+            "IsUnsaleable": false,
+            "ItemSound": "mod",
+            "LeftHandItem": false,
+            "LootExperience": 10,
+            "MergesWithChildren": true,
+            "Name": "handguard_ak_hexagon_terka_1_red",
+            "NotShownInSlot": false,
+            "Prefab": {
+                "path": "assets/content/items/mods/handguards/handguard_ak_hexagon_terka_1_red.bundle",
+                "rcid": ""
+            },
+            "QuestItem": false,
+            "QuestStashMaxCount": 0,
+            "RagFairCommissionModifier": 1,
+            "RagfairLevelToTrade": 0,
+            "RarityPvE": "Not_exist",
+            "RepairCost": 0,
+            "RepairSpeed": 0,
+            "ShortName": "handguard_ak_hexagon_terka_1_red",
+            "StackMaxSize": 1,
+            "StackObjectsCount": 1,
+            "Unlootable": false,
+            "UnlootableFromSide": [],
+            "UnlootableFromSlot": "FirstPrimaryWeapon",
+            "UsePrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "Weight": 0.18,
+            "Width": 2,
+            "CanPutIntoDuringTheRaid": true,
+            "CantRemoveFromSlotsDuringRaid": [],
+            "ForbidMissingVitalParts": false,
+            "ForbidNonEmptyContainers": false,
+            "Accuracy": 0,
+            "BlocksCollapsible": false,
+            "BlocksFolding": false,
+            "CategoryAnimationModId": 0,
+            "DoubleActionAccuracyPenaltyMult": 1,
+            "Durability": 100,
+            "EffectiveDistance": 0,
+            "Ergonomics": 19,
+            "HasShoulderContact": false,
+            "IsAnimated": false,
+            "Loudness": 0,
+            "MetascoreGroup": "Firepower",
+            "RaidModdable": false,
+            "Recoil": 0,
+            "SightingRange": 0,
+            "ToolModdable": true,
+            "UniqueAnimationModID": 0,
+            "Velocity": 0,
+            "CoolFactor": 1.095,
+            "HeatFactor": 0.956
+        },
+        "locales": {
+            "en": {
+                "name": "AK Hexagon Cheese Grater mod.1 handguard (Anodized Red)",
+                "shortName": "CG mod.1",
+                "description": "A handguard for AK family automatic rifles, manufactured by Hexagon. Anodized Red version."
+            }
+        },
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "handbookPriceRoubles": 7890,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "staticLootContainers": [],
+        "addtoHallOfFame": false,
+        "hallOfFameSlots": [],
+        "addtoSpecialSlots": false,
+        "addtoHideoutPosterSlots": false,
+        "addPosterToMaps": false,
+        "posterSpawnProbability": 0,
+        "addtoStatuetteSlots": false,
+        "addCaliberToAllCloneLocations": false,
+        "addtoStaticAmmo": false,
+        "staticAmmoProbability": 0,
+        "addtoSecureFilters": false,
+        "masteries": false,
+        "masterySections": [],
+        "addWeaponPreset": false,
+        "weaponPresets": [],
+        "addtoTraders": false,
+        "traders": {},
+        "registerInFleaPrices": false,
+        "addtoItemBlacklist": true
+    },
+    "6a6720592ff856278106eb3e": {
+        "itemTplToClone": "5648b4534bdc2d3d1c8b4580",
+        "parentId": "55818a104bdc2db9688b4569",
+        "handbookParentId": "5b5f75e486f77447ec5d7712",
+        "overrideProperties": {
+            "Grids": [],
+            "Slots": [
+                {
+                    "_name": "mod_foregrip",
+                    "_id": "6a6720592ff856278106eb3f",
+                    "_parent": "6a6720592ff856278106eb3e",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b800ebc86f774394e230a90",
+                                    "5b8403a086f7747ff856f4e2"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_001",
+                    "_id": "6a6720592ff856278106eb40",
+                    "_parent": "6a6720592ff856278106eb3e",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b800ed086f7747baf6e2f9e",
+                                    "5b84038986f774774913b0c1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_000",
+                    "_id": "6a6720592ff856278106eb41",
+                    "_parent": "6a6720592ff856278106eb3e",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b800ed086f7747baf6e2f9e",
+                                    "5b84038986f774774913b0c1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ],
+            "AnimationVariantsNumber": 0,
+            "BackgroundColor": "violet",
+            "CanRequireOnRagfair": false,
+            "CanSellOnRagfair": false,
+            "ConflictingItems": [
+                "5ac66d015acfc400180ae6e4",
+                "5ac66d725acfc43b321d4b60",
+                "5ac66d9b5acfc4001633997a"
+            ],
+            "Description": "handguard_ak_hexagon_terka_1_ylw",
+            "DiscardLimit": -1,
+            "DiscardingBlock": false,
+            "ExamineExperience": 3,
+            "ExamineTime": 1,
+            "ExaminedByDefault": true,
+            "ExtraSizeDown": 0,
+            "ExtraSizeForceAdd": false,
+            "ExtraSizeLeft": 0,
+            "ExtraSizeRight": 0,
+            "ExtraSizeUp": 0,
+            "Height": 1,
+            "HideEntrails": false,
+            "InsuranceDisabled": false,
+            "IsAlwaysAvailableForInsurance": false,
+            "IsLockedafterEquip": false,
+            "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+            "IsSecretExitRequirement": false,
+            "IsSpecialSlotOnly": false,
+            "IsUnbuyable": false,
+            "IsUndiscardable": false,
+            "IsUngivable": false,
+            "IsUnremovable": false,
+            "IsUnsaleable": false,
+            "ItemSound": "mod",
+            "LeftHandItem": false,
+            "LootExperience": 10,
+            "MergesWithChildren": true,
+            "Name": "handguard_ak_hexagon_terka_1_ylw",
+            "NotShownInSlot": false,
+            "Prefab": {
+                "path": "assets/content/items/mods/handguards/handguard_ak_hexagon_terka_1_ylw.bundle",
+                "rcid": ""
+            },
+            "QuestItem": false,
+            "QuestStashMaxCount": 0,
+            "RagFairCommissionModifier": 1,
+            "RagfairLevelToTrade": 0,
+            "RarityPvE": "Not_exist",
+            "RepairCost": 0,
+            "RepairSpeed": 0,
+            "ShortName": "handguard_ak_hexagon_terka_1_ylw",
+            "StackMaxSize": 1,
+            "StackObjectsCount": 1,
+            "Unlootable": false,
+            "UnlootableFromSide": [],
+            "UnlootableFromSlot": "FirstPrimaryWeapon",
+            "UsePrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "Weight": 0.18,
+            "Width": 2,
+            "CanPutIntoDuringTheRaid": true,
+            "CantRemoveFromSlotsDuringRaid": [],
+            "ForbidMissingVitalParts": false,
+            "ForbidNonEmptyContainers": false,
+            "Accuracy": 0,
+            "BlocksCollapsible": false,
+            "BlocksFolding": false,
+            "CategoryAnimationModId": 0,
+            "DoubleActionAccuracyPenaltyMult": 1,
+            "Durability": 100,
+            "EffectiveDistance": 0,
+            "Ergonomics": 19,
+            "HasShoulderContact": false,
+            "IsAnimated": false,
+            "Loudness": 0,
+            "MetascoreGroup": "Firepower",
+            "RaidModdable": false,
+            "Recoil": 0,
+            "SightingRange": 0,
+            "ToolModdable": true,
+            "UniqueAnimationModID": 0,
+            "Velocity": 0,
+            "CoolFactor": 1.095,
+            "HeatFactor": 0.956
+        },
+        "locales": {
+            "en": {
+                "name": "AK Hexagon Cheese Grater mod.1 handguard (Anodized Yellow)",
+                "shortName": "CG mod.1",
+                "description": "A handguard for AK family automatic rifles, manufactured by Hexagon. Anodized Yellow version."
+            }
+        },
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "handbookPriceRoubles": 7890,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "staticLootContainers": [],
+        "addtoHallOfFame": false,
+        "hallOfFameSlots": [],
+        "addtoSpecialSlots": false,
+        "addtoHideoutPosterSlots": false,
+        "addPosterToMaps": false,
+        "posterSpawnProbability": 0,
+        "addtoStatuetteSlots": false,
+        "addCaliberToAllCloneLocations": false,
+        "addtoStaticAmmo": false,
+        "staticAmmoProbability": 0,
+        "addtoSecureFilters": false,
+        "masteries": false,
+        "masterySections": [],
+        "addWeaponPreset": false,
+        "weaponPresets": [],
+        "addtoTraders": false,
+        "traders": {},
+        "registerInFleaPrices": false,
+        "addtoItemBlacklist": true
+    },
+    "6a6724bddfb2de5e320d451d": {
+        "itemTplToClone": "5648ae314bdc2d3d1c8b457f",
+        "parentId": "55818a104bdc2db9688b4569",
+        "handbookParentId": "5b5f75e486f77447ec5d7712",
+        "overrideProperties": {
+            "Grids": [],
+            "Slots": [
+                {
+                    "_name": "mod_foregrip",
+                    "_id": "6a6724bddfb2de5e320d451e",
+                    "_parent": "6a6724bddfb2de5e320d451d",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b800ebc86f774394e230a90",
+                                    "5b8403a086f7747ff856f4e2"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_001",
+                    "_id": "6a6724bddfb2de5e320d451f",
+                    "_parent": "6a6724bddfb2de5e320d451d",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b800ed086f7747baf6e2f9e",
+                                    "5b84038986f774774913b0c1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_000",
+                    "_id": "6a6724bddfb2de5e320d4520",
+                    "_parent": "6a6724bddfb2de5e320d451d",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b800ed086f7747baf6e2f9e",
+                                    "5b84038986f774774913b0c1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_002",
+                    "_id": "6a6724bddfb2de5e320d4521",
+                    "_parent": "6a6724bddfb2de5e320d451d",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b800ed086f7747baf6e2f9e",
+                                    "5b84038986f774774913b0c1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ],
+            "AnimationVariantsNumber": 0,
+            "BackgroundColor": "blue",
+            "CanRequireOnRagfair": false,
+            "CanSellOnRagfair": false,
+            "ConflictingItems": [
+                "5ac66d015acfc400180ae6e4",
+                "5ac66d725acfc43b321d4b60",
+                "5ac66d9b5acfc4001633997a"
+            ],
+            "Description": "handguard_ak_hexagon_terka_2_gry",
+            "DiscardLimit": -1,
+            "DiscardingBlock": false,
+            "ExamineExperience": 3,
+            "ExamineTime": 1,
+            "ExaminedByDefault": true,
+            "ExtraSizeDown": 0,
+            "ExtraSizeForceAdd": false,
+            "ExtraSizeLeft": 0,
+            "ExtraSizeRight": 0,
+            "ExtraSizeUp": 0,
+            "Height": 1,
+            "HideEntrails": false,
+            "InsuranceDisabled": false,
+            "IsAlwaysAvailableForInsurance": false,
+            "IsLockedafterEquip": false,
+            "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+            "IsSecretExitRequirement": false,
+            "IsSpecialSlotOnly": false,
+            "IsUnbuyable": false,
+            "IsUndiscardable": false,
+            "IsUngivable": false,
+            "IsUnremovable": false,
+            "IsUnsaleable": false,
+            "ItemSound": "mod",
+            "LeftHandItem": false,
+            "LootExperience": 10,
+            "MergesWithChildren": true,
+            "Name": "handguard_ak_hexagon_terka_2_gry",
+            "NotShownInSlot": false,
+            "Prefab": {
+                "path": "assets/content/items/mods/handguards/handguard_ak_hexagon_terka_2_gry.bundle",
+                "rcid": ""
+            },
+            "QuestItem": false,
+            "QuestStashMaxCount": 0,
+            "RagFairCommissionModifier": 1,
+            "RagfairLevelToTrade": 0,
+            "RarityPvE": "Not_exist",
+            "RepairCost": 0,
+            "RepairSpeed": 0,
+            "ShortName": "handguard_ak_hexagon_terka_2_gry",
+            "StackMaxSize": 1,
+            "StackObjectsCount": 1,
+            "Unlootable": false,
+            "UnlootableFromSide": [],
+            "UnlootableFromSlot": "FirstPrimaryWeapon",
+            "UsePrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "Weight": 0.19,
+            "Width": 2,
+            "CanPutIntoDuringTheRaid": true,
+            "CantRemoveFromSlotsDuringRaid": [],
+            "ForbidMissingVitalParts": false,
+            "ForbidNonEmptyContainers": false,
+            "Accuracy": 0,
+            "BlocksCollapsible": false,
+            "BlocksFolding": false,
+            "CategoryAnimationModId": 0,
+            "DoubleActionAccuracyPenaltyMult": 1,
+            "Durability": 100,
+            "EffectiveDistance": 0,
+            "Ergonomics": 18,
+            "HasShoulderContact": false,
+            "IsAnimated": false,
+            "Loudness": 0,
+            "MetascoreGroup": "Firepower",
+            "RaidModdable": false,
+            "Recoil": 0,
+            "SightingRange": 0,
+            "ToolModdable": true,
+            "UniqueAnimationModID": 0,
+            "Velocity": 0,
+            "CoolFactor": 1.094,
+            "HeatFactor": 0.958
+        },
+        "locales": {
+            "en": {
+                "name": "AK Hexagon Cheese Grater mod.2 handguard (Anodized Grey)",
+                "shortName": "CG mod.2",
+                "description": "A handguard for AK family automatic rifles, manufactured by Hexagon. Anodized Grey version."
+            }
+        },
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "handbookPriceRoubles": 7890,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "staticLootContainers": [],
+        "addtoHallOfFame": false,
+        "hallOfFameSlots": [],
+        "addtoSpecialSlots": false,
+        "addtoHideoutPosterSlots": false,
+        "addPosterToMaps": false,
+        "posterSpawnProbability": 0,
+        "addtoStatuetteSlots": false,
+        "addCaliberToAllCloneLocations": false,
+        "addtoStaticAmmo": false,
+        "staticAmmoProbability": 0,
+        "addtoSecureFilters": false,
+        "masteries": false,
+        "masterySections": [],
+        "addWeaponPreset": false,
+        "weaponPresets": [],
+        "addtoTraders": false,
+        "traders": {},
+        "registerInFleaPrices": false,
+        "addtoItemBlacklist": true
+    },
+    "6a67250406a5419b2508f23e": {
+        "itemTplToClone": "5648ae314bdc2d3d1c8b457f",
+        "parentId": "55818a104bdc2db9688b4569",
+        "handbookParentId": "5b5f75e486f77447ec5d7712",
+        "overrideProperties": {
+            "Grids": [],
+            "Slots": [
+                {
+                    "_name": "mod_foregrip",
+                    "_id": "6a67250406a5419b2508f23f",
+                    "_parent": "6a67250406a5419b2508f23e",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b800ebc86f774394e230a90",
+                                    "5b8403a086f7747ff856f4e2"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_001",
+                    "_id": "6a67250406a5419b2508f240",
+                    "_parent": "6a67250406a5419b2508f23e",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b800ed086f7747baf6e2f9e",
+                                    "5b84038986f774774913b0c1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_000",
+                    "_id": "6a67250406a5419b2508f241",
+                    "_parent": "6a67250406a5419b2508f23e",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b800ed086f7747baf6e2f9e",
+                                    "5b84038986f774774913b0c1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_002",
+                    "_id": "6a67250406a5419b2508f242",
+                    "_parent": "6a67250406a5419b2508f23e",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b800ed086f7747baf6e2f9e",
+                                    "5b84038986f774774913b0c1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ],
+            "AnimationVariantsNumber": 0,
+            "BackgroundColor": "violet",
+            "CanRequireOnRagfair": false,
+            "CanSellOnRagfair": false,
+            "ConflictingItems": [
+                "5ac66d015acfc400180ae6e4",
+                "5ac66d725acfc43b321d4b60",
+                "5ac66d9b5acfc4001633997a"
+            ],
+            "Description": "handguard_ak_hexagon_terka_2_ylw",
+            "DiscardLimit": -1,
+            "DiscardingBlock": false,
+            "ExamineExperience": 3,
+            "ExamineTime": 1,
+            "ExaminedByDefault": true,
+            "ExtraSizeDown": 0,
+            "ExtraSizeForceAdd": false,
+            "ExtraSizeLeft": 0,
+            "ExtraSizeRight": 0,
+            "ExtraSizeUp": 0,
+            "Height": 1,
+            "HideEntrails": false,
+            "InsuranceDisabled": false,
+            "IsAlwaysAvailableForInsurance": false,
+            "IsLockedafterEquip": false,
+            "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+            "IsSecretExitRequirement": false,
+            "IsSpecialSlotOnly": false,
+            "IsUnbuyable": false,
+            "IsUndiscardable": false,
+            "IsUngivable": false,
+            "IsUnremovable": false,
+            "IsUnsaleable": false,
+            "ItemSound": "mod",
+            "LeftHandItem": false,
+            "LootExperience": 10,
+            "MergesWithChildren": true,
+            "Name": "handguard_ak_hexagon_terka_2_ylw",
+            "NotShownInSlot": false,
+            "Prefab": {
+                "path": "assets/content/items/mods/handguards/handguard_ak_hexagon_terka_2_ylw.bundle",
+                "rcid": ""
+            },
+            "QuestItem": false,
+            "QuestStashMaxCount": 0,
+            "RagFairCommissionModifier": 1,
+            "RagfairLevelToTrade": 0,
+            "RarityPvE": "Not_exist",
+            "RepairCost": 0,
+            "RepairSpeed": 0,
+            "ShortName": "handguard_ak_hexagon_terka_2_ylw",
+            "StackMaxSize": 1,
+            "StackObjectsCount": 1,
+            "Unlootable": false,
+            "UnlootableFromSide": [],
+            "UnlootableFromSlot": "FirstPrimaryWeapon",
+            "UsePrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "Weight": 0.19,
+            "Width": 2,
+            "CanPutIntoDuringTheRaid": true,
+            "CantRemoveFromSlotsDuringRaid": [],
+            "ForbidMissingVitalParts": false,
+            "ForbidNonEmptyContainers": false,
+            "Accuracy": 0,
+            "BlocksCollapsible": false,
+            "BlocksFolding": false,
+            "CategoryAnimationModId": 0,
+            "DoubleActionAccuracyPenaltyMult": 1,
+            "Durability": 100,
+            "EffectiveDistance": 0,
+            "Ergonomics": 18,
+            "HasShoulderContact": false,
+            "IsAnimated": false,
+            "Loudness": 0,
+            "MetascoreGroup": "Firepower",
+            "RaidModdable": false,
+            "Recoil": 0,
+            "SightingRange": 0,
+            "ToolModdable": true,
+            "UniqueAnimationModID": 0,
+            "Velocity": 0,
+            "CoolFactor": 1.095,
+            "HeatFactor": 0.955
+        },
+        "locales": {
+            "en": {
+                "name": "AK Hexagon Cheese Grater mod.2 handguard (Anodized Yellow)",
+                "shortName": "CG mod.2",
+                "description": "A handguard for AK family automatic rifles, manufactured by Hexagon. Anodized Yellow version."
+            }
+        },
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "handbookPriceRoubles": 7890,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "staticLootContainers": [],
+        "addtoHallOfFame": false,
+        "hallOfFameSlots": [],
+        "addtoSpecialSlots": false,
+        "addtoHideoutPosterSlots": false,
+        "addPosterToMaps": false,
+        "posterSpawnProbability": 0,
+        "addtoStatuetteSlots": false,
+        "addCaliberToAllCloneLocations": false,
+        "addtoStaticAmmo": false,
+        "staticAmmoProbability": 0,
+        "addtoSecureFilters": false,
+        "masteries": false,
+        "masterySections": [],
+        "addWeaponPreset": false,
+        "weaponPresets": [],
+        "addtoTraders": false,
+        "traders": {},
+        "registerInFleaPrices": false,
+        "addtoItemBlacklist": true
+    },
+    "6a6721edecf09d43410cba5a": {
+        "itemTplToClone": "5648ae314bdc2d3d1c8b457f",
+        "parentId": "55818a104bdc2db9688b4569",
+        "handbookParentId": "5b5f75e486f77447ec5d7712",
+        "overrideProperties": {
+            "Grids": [],
+            "Slots": [
+                {
+                    "_name": "mod_foregrip",
+                    "_id": "6a6721edecf09d43410cba5b",
+                    "_parent": "6a6721edecf09d43410cba5a",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b800ebc86f774394e230a90",
+                                    "5b8403a086f7747ff856f4e2"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_001",
+                    "_id": "6a6721edecf09d43410cba5c",
+                    "_parent": "6a6721edecf09d43410cba5a",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b800ed086f7747baf6e2f9e",
+                                    "5b84038986f774774913b0c1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_000",
+                    "_id": "6a6721edecf09d43410cba5d",
+                    "_parent": "6a6721edecf09d43410cba5a",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b800ed086f7747baf6e2f9e",
+                                    "5b84038986f774774913b0c1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                },
+                {
+                    "_name": "mod_mount_002",
+                    "_id": "6a6724709513419ca9ba109d",
+                    "_parent": "6a6721edecf09d43410cba5a",
+                    "_props": {
+                        "filters": [
+                            {
+                                "Filter": [
+                                    "5b800ed086f7747baf6e2f9e",
+                                    "5b84038986f774774913b0c1"
+                                ],
+                                "Shift": 0
+                            }
+                        ]
+                    },
+                    "_required": false,
+                    "_mergeSlotWithChildren": false,
+                    "_isPlateSlot": false,
+                    "_isPatronSlot": false,
+                    "_proto": "55d30c4c4bdc2db4468b457e"
+                }
+            ],
+            "AnimationVariantsNumber": 0,
+            "BackgroundColor": "violet",
+            "CanRequireOnRagfair": false,
+            "CanSellOnRagfair": false,
+            "ConflictingItems": [
+                "5ac66d015acfc400180ae6e4",
+                "5ac66d725acfc43b321d4b60",
+                "5ac66d9b5acfc4001633997a"
+            ],
+            "Description": "handguard_ak_hexagon_terka_2_ylw",
+            "DiscardLimit": -1,
+            "DiscardingBlock": false,
+            "ExamineExperience": 3,
+            "ExamineTime": 1,
+            "ExaminedByDefault": true,
+            "ExtraSizeDown": 0,
+            "ExtraSizeForceAdd": false,
+            "ExtraSizeLeft": 0,
+            "ExtraSizeRight": 0,
+            "ExtraSizeUp": 0,
+            "Height": 1,
+            "HideEntrails": false,
+            "InsuranceDisabled": false,
+            "IsAlwaysAvailableForInsurance": false,
+            "IsLockedafterEquip": false,
+            "IsNotDeletableFromQuestStashAfterQuestComplete": false,
+            "IsSecretExitRequirement": false,
+            "IsSpecialSlotOnly": false,
+            "IsUnbuyable": false,
+            "IsUndiscardable": false,
+            "IsUngivable": false,
+            "IsUnremovable": false,
+            "IsUnsaleable": false,
+            "ItemSound": "mod",
+            "LeftHandItem": false,
+            "LootExperience": 10,
+            "MergesWithChildren": true,
+            "Name": "handguard_ak_hexagon_terka_2_red",
+            "NotShownInSlot": false,
+            "Prefab": {
+                "path": "assets/content/items/mods/handguards/handguard_ak_hexagon_terka_2_red.bundle",
+                "rcid": ""
+            },
+            "QuestItem": false,
+            "QuestStashMaxCount": 0,
+            "RagFairCommissionModifier": 1,
+            "RagfairLevelToTrade": 0,
+            "RarityPvE": "Not_exist",
+            "RepairCost": 0,
+            "RepairSpeed": 0,
+            "ShortName": "handguard_ak_hexagon_terka_2_red",
+            "StackMaxSize": 1,
+            "StackObjectsCount": 1,
+            "Unlootable": false,
+            "UnlootableFromSide": [],
+            "UnlootableFromSlot": "FirstPrimaryWeapon",
+            "UsePrefab": {
+                "path": "",
+                "rcid": ""
+            },
+            "Weight": 0.19,
+            "Width": 2,
+            "CanPutIntoDuringTheRaid": true,
+            "CantRemoveFromSlotsDuringRaid": [],
+            "ForbidMissingVitalParts": false,
+            "ForbidNonEmptyContainers": false,
+            "Accuracy": 0,
+            "BlocksCollapsible": false,
+            "BlocksFolding": false,
+            "CategoryAnimationModId": 0,
+            "DoubleActionAccuracyPenaltyMult": 1,
+            "Durability": 100,
+            "EffectiveDistance": 0,
+            "Ergonomics": 18,
+            "HasShoulderContact": false,
+            "IsAnimated": false,
+            "Loudness": 0,
+            "MetascoreGroup": "Firepower",
+            "RaidModdable": false,
+            "Recoil": 0,
+            "SightingRange": 0,
+            "ToolModdable": true,
+            "UniqueAnimationModID": 0,
+            "Velocity": 0,
+            "CoolFactor": 1.095,
+            "HeatFactor": 0.955
+        },
+        "locales": {
+            "en": {
+                "name": "AK Hexagon Cheese Grater mod.2 handguard (Anodized Red)",
+                "shortName": "CG mod.2",
+                "description": "A handguard for AK family automatic rifles, manufactured by Hexagon. Anodized Red version."
+            }
+        },
+        "addtoInventorySlots": [],
+        "addtoModSlots": true,
+        "modSlot": [
+            "mod_handguard"
+        ],
+        "handbookPriceRoubles": 7890,
+        "addtoBots": false,
+        "addtoStaticLootContainers": false,
+        "staticLootContainers": [],
+        "addtoHallOfFame": false,
+        "hallOfFameSlots": [],
+        "addtoSpecialSlots": false,
+        "addtoHideoutPosterSlots": false,
+        "addPosterToMaps": false,
+        "posterSpawnProbability": 0,
+        "addtoStatuetteSlots": false,
+        "addCaliberToAllCloneLocations": false,
+        "addtoStaticAmmo": false,
+        "staticAmmoProbability": 0,
+        "addtoSecureFilters": false,
+        "masteries": false,
+        "masterySections": [],
+        "addWeaponPreset": false,
+        "weaponPresets": [],
+        "addtoTraders": false,
+        "traders": {},
+        "registerInFleaPrices": false,
+        "addtoItemBlacklist": true
+    }
+}
